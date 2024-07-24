@@ -1,6 +1,6 @@
 <hr>
 
-# <center>COURSE PROJECT</center>
+# <center>ENTERPRISE PROJECT</center>
 
 <p align="center">
     <strong>Birdz ENTERPRISE</strong><br>
