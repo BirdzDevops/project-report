@@ -59,6 +59,18 @@
     </tbody>
 </table>
 
+# Project Report Collaboration Insights
+
+In this section, we log all the changes and commits done in the Github Organization. Additionally, compare our advances to the Sprint Goal.
+
+## SPRINT 1
+
+## SPRINT 2
+
+## SPRINT 3
+
+## SPRINT 4 
+
 # Contenido
 
 [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
