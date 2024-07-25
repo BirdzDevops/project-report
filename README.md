@@ -26,7 +26,7 @@
 |               Developer Team                |    Code    |
 | :---------------------------------: | :--------: |
 | Mauricio Abraham Rivo Rojas Sánchez | U202211572 |
-|      Victor Meneses      | U202211552 |
+|      Victor Manuel Meneses Arevalo  | U202211552 |
 
 </div>
 
