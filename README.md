@@ -269,8 +269,33 @@ To compete with our competitors, we have to recognize our background and problem
 
 **Background**
 
+In the input industry is essential the efficient organization, communication and operations to satisfy the client. In the last years, we have noticed
+the significant evolution of the industry and the customer expectations, in some way influenced by the technology and for the fast expansion of the
+market or industry.
 
-**Problem**
+The great presence of booking platform online and the constantly growing demand of personalized experiences have created a competitive environment to 
+the hotels of every status. The clients not only expect a simple service, they expect a high service with all the mod cons, benefits and with any
+setback.
+
+Additionally, the lack of suitable tools 
+
+**Problem Topic**
+
+We are going to recognize our problem topic by 5W and 2H method.
+
+**What**
+
+**Who**
+
+**When**
+
+**Where**
+
+**Why**
+
+**How**
+
+**How much**
 
 ### 1.2.2 Lean UX Process.
 
