@@ -30,13 +30,38 @@
 
 </div>
 
+# Document Version Log 
+
+<table>
+    <thead>
+        <tr>
+            <th>Version</th>
+            <th>Date</th>
+            <th>Participants</th>
+            <th>Observations</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>SPRINT 1</td>
+            <td>24/07/2024</td>
+            <td>Mauricio Abraham Rivo Rojas Sánchez</td>
+            <td>
+                <ul>
+                    <li>Chapter 1: Introduction</li>
+                    <li>StartUp Profile</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>SPRINT 1</td>
+        </tr>
+    </tbody>
+</table>
+
 # Contenido
 
 [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-
-[Project Report Collaboration Insights](#project-report-collaboration-insights)
-
-[Student Outcome](#student-outcome)
 
 [Capítulo I: Introducción](#capítulo-i-introducción)
 
