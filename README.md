@@ -303,19 +303,22 @@ in that case is really needed a good software to optimize the speed and organiza
 
 **Where**
 
-
+The necessity of all these features are present in all restaurants, the important and signicant advantage of speed, organization and operations over 
+other restaurants is indisputable.
 
 **Why**
 
-
+The ineficient management/organization can get worse the economy, communication, environment, etc. Consequently, it becomes to a unsatisfactory experience
+to the client. 
 
 **How**
 
-
+Birdz App address this problem by providing a complete platform that pledge an intuitive UI and a complete list of operations, segments, etc. In this 
+way, the business'll be easier to take advantage to. 
 
 **How much**
 
-
+At the begin of subscription Model. Each company that wants the software must pay the service's cost.
 
 ### 1.2.2 Lean UX Process.
 
