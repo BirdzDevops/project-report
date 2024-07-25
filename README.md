@@ -72,6 +72,18 @@ In this section, we log all the changes and commits done in the Github Organizat
 
 ## SPRINT 1
 
+## 1.1.1 Startup Description 
+
+**Birdz Management System** is a comprehensive solution designed to manage all operations of Birdz restaurant, located in Miraflores. Similar to Pardos, this application allows managers and owners to have full control over all aspects of their business from anywhere and at any time, thanks to its intuitive and easy-to-use interface.
+
+**Key Features:**
+
+- **Income and Expense Management:** Offers detailed tracking of all restaurant income and expenses, providing real-time reports for informed decision-making.
+- **Inventory Control:** With our application, Birdz can efficiently manage its inventories of food, beverages, and other supplies, avoiding shortages and waste.
+- **Supplier Management:** We facilitate communication and relationship management with suppliers, allowing quick and efficient order placements.
+- **Delivery Management:** Register delivery orders, assign orders to couriers, and track deliveries in real-time to ensure efficient and timely service.
+
+
 ### 1.2.2 Lean UX Process
 The Lean UX process addresses the business model vision that supports our project, with our main product being the software. Throughout this document and in this chapter, we explore several key elements of this process.
 
