@@ -285,17 +285,37 @@ We are going to recognize our problem topic by 5W and 2H method.
 
 **What**
 
+Birdz App is a robust and complete software that improves organization, communication, operations and real-time decisions for the company workers, in this way attending to the neccesities of the workers, clients, admins and suppliers. Some of the features that Birdz App has is:
+- Software Segment for Suppliers
+- Software Segment for Workers
+- Software Segment for Clients
+- Software Segment for admins
+
 **Who**
+
+The restaurants of all the world face problems related to organization and lack of clients interest. In this way, this software is to restaurants 
+that want to have a better tool to improve the organization, operations, communication and real-time decisions.
 
 **When**
 
+The problem topic affect when the restaurant organization is bad or regular and the clients are mad for the bad service from the restaurant. So,
+in that case is really needed a good software to optimize the speed and organization.
+
 **Where**
+
+
 
 **Why**
 
+
+
 **How**
 
+
+
 **How much**
+
+
 
 ### 1.2.2 Lean UX Process.
 
