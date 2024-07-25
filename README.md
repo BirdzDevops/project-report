@@ -450,5 +450,33 @@ We believe we will expand our market presence if restaurants of different sizes 
 | **6. Hypotheses**<br><br> - We believe we can be recognized as a leader in technological solutions for restaurant management when restaurant owners and managers get a smooth and personalized user experience through our intuitive and customizable interface.<br><br> - We believe we will achieve increased operational efficiency if restaurant managers and owners get accurate, real-time financial data by tracking income and expenses in real time.<br><br> - We believe profitability improvement will be achieved if restaurant managers get optimized inventory and supplier management through our solution's inventory management and supplier relationship function.<br><br> - We believe we will achieve higher customer satisfaction if restaurant managers get more efficient staff management, which could be achieved through our solution's staff management modules.<br><br> - We believe customer retention will be achieved if restaurant managers and owners get a better centralized and efficient management experience through native integration with other existing restaurant management systems.<br><br> - We believe operational cost reduction will be achieved if restaurant managers get efficient coordination and control of inventories through our solution's inventory management and supplier relationship function.<br><br> - We believe we will expand our market presence if restaurants of different sizes get a solution adaptable to their specific needs with the intuitive and customizable interface. | **7. What’s the Most Important Thing We Need to Learn First?**<br><br> Understanding the specific needs and challenges of restaurant management: This will allow us to design solutions that address real problems and add value to owners and managers.<br><br> Analyzing the competitive landscape: It is crucial to understand the strengths and weaknesses of our competitors, as well as identify opportunities to differentiate ourselves in the market.<br><br> Clearly defining objectives and success metrics: Before moving forward with development, we need to establish clear and measurable goals for the platform, allowing us to evaluate its effectiveness and make adjustments as necessary. |
 | **8. What's the least amount of work we need to do to learn the next most important thing?**<br><br> - **Satisfaction Surveys:** Conduct brief surveys among users to understand their initial needs and expectations regarding restaurant management and existing technological solutions.<br><br> - **Competitive Analysis:** Conduct a quick research to identify the main competitors in the restaurant management space and understand the key features of their platforms.<br><br> - **Identification of Key Metrics:** Determine the key metrics that will allow us to measure the platform's success, such as adoption rate, user retention, and customer satisfaction.<br><br> - **Prototype on the Concept:** Create a simple prototype or mock-up of the platform to get early feedback from users and validate the viability of the idea. |   |
 
-## 1.3. Segmentos objetivo.
+## 1.3. Target Segments
+
+Based on our identified users, we have defined our target segments to which our solution is directed.
+
+**Users:**
+
+### Administrators of Birdz
+
+- **Location:** Primarily located in urban and commercial areas where Birdz restaurants operate.
+- **Characteristics:** Administrators are deeply involved in the overall management of the restaurant, requiring access to all aspects of the system to oversee operations comprehensively. They prioritize efficiency, profitability, and comprehensive control over all operational facets. They are also focused on continuous improvement to ensure the success and growth of the restaurant.
+- **Demographics:** Typically adults between the ages of 35 and 60. Their educational background varies from formal business education to extensive experience in restaurant management. They may have significant experience in the industry or be relatively new to the role but with a strong desire to optimize the restaurant's performance.
+
+### Workers of Birdz
+
+- **Location:** Located at the various Birdz restaurant locations, often in urban settings.
+- **Characteristics:** Workers are dedicated to delivering high-quality customer service and ensuring an exceptional dining experience. They need tools to efficiently handle their specific tasks, from managing orders to interacting with the point-of-sale system. Adaptability and effective communication with both customers and colleagues are essential in their roles.
+- **Demographics:** Generally young adults to middle-aged individuals. Their educational background ranges from secondary education to specialized training in hospitality and food service. Their work experience varies, including both new employees and seasoned professionals in the restaurant industry.
+
+### Customers of Birdz
+
+- **Location:** Typically reside in urban and suburban areas where Birdz restaurants are situated. They may include both local patrons and visitors.
+- **Characteristics:** Customers seek a seamless and enjoyable dining experience, including easy ordering, reservations, and quick service. They value convenience and efficiency and prefer platforms that enhance their overall dining experience, including online ordering and reservation systems.
+- **Demographics:** Wide-ranging, including individuals of all ages and backgrounds who frequent restaurants for dining out, with varying levels of tech-savviness.
+
+### Suppliers of Birdz
+
+- **Location:** May be based locally or regionally, depending on the supply chain and delivery logistics for Birdz.
+- **Characteristics:** Suppliers provide the necessary ingredients and materials for the restaurant. They need a reliable and efficient system for managing orders and inventory levels. Good communication and timely responses are crucial for maintaining a smooth supply chain and ensuring the restaurant’s needs are met without disruption.
+- **Demographics:** Typically businesses rather than individuals, with varying sizes from small local suppliers to larger distributors. They generally have a strong focus on logistics and supply chain management.
 
