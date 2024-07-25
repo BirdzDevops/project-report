@@ -261,7 +261,16 @@ In this section, we log all the changes and commits done in the Github Organizat
 
 ## 1.2. Solution Profile
 
+The objective of Birdz Application is offer a complete service to all the role list of the business. For example, the suppliers, clients, workers and administrators. It's important to mention that also attends the storage neccesity, like notifications when the supplies are almost empty.
+
 ### 1.2.1 Antecedentes y problemática
+
+To compete with our competitors, we have to recognize our background and problem to solve.
+
+**Background**
+
+
+**Problem**
 
 ### 1.2.2 Lean UX Process.
 
