@@ -261,7 +261,7 @@ In this section, we log all the changes and commits done in the Github Organizat
 
 ## 1.2. Solution Profile
 
-The objective of Birdz Application is offer a complete service to all the role list of the business. For example, the suppliers, clients, workers and administrators. It's important to mention that also attends the storage neccesity, like notifications when the supplies are almost empty.
+The objective of Birdz Application is to offer a complete service to all the roles in the business. For example, the suppliers, clients, workers, and administrators. It's important to mention that it also attends to the storage necessity, like notifications when the supplies are almost empty.
 
 ### 1.2.1 Antecedentes y problemática
 
@@ -269,56 +269,47 @@ To compete with our competitors, we have to recognize our background and problem
 
 **Background**
 
-In the input industry is essential the efficient organization, communication and operations to satisfy the client. In the last years, we have noticed
-the significant evolution of the industry and the customer expectations, in some way influenced by the technology and for the fast expansion of the
-market or industry.
+In the input industry, it is essential to have efficient organization, communication, and operations to satisfy the client. In recent years, we have noticed the significant evolution of the industry and customer expectations, influenced by technology and the fast expansion of the market or industry.
 
-The great presence of booking platform online and the constantly growing demand of personalized experiences have created a competitive environment to 
-the hotels of every status. The clients not only expect a simple service, they expect a high service with all the mod cons, benefits and with any
-setback.
+The great presence of online booking platforms and the constantly growing demand for personalized experiences have created a competitive environment for hotels of every status. Clients not only expect simple service; they expect high service with all the amenities, benefits, and without any setbacks.
 
-Additionally, the lack of suitable tools 
+Additionally, there is a lack of suitable tools.
 
 **Problem Topic**
 
-We are going to recognize our problem topic by 5W and 2H method.
+We are going to recognize our problem topic by the 5W and 2H method.
 
 **What**
 
-Birdz App is a robust and complete software that improves organization, communication, operations and real-time decisions for the company workers, in this way attending to the neccesities of the workers, clients, admins and suppliers. Some of the features that Birdz App has is:
+Birdz App is a robust and complete software that improves organization, communication, operations, and real-time decisions for the company workers, attending to the necessities of the workers, clients, admins, and suppliers. Some of the features that Birdz App has are:
 - Software Segment for Suppliers
 - Software Segment for Workers
 - Software Segment for Clients
-- Software Segment for admins
+- Software Segment for Admins
 
 **Who**
 
-The restaurants of all the world face problems related to organization and lack of clients interest. In this way, this software is to restaurants 
-that want to have a better tool to improve the organization, operations, communication and real-time decisions.
+Restaurants all over the world face problems related to organization and lack of client interest. This software is for restaurants that want to have a better tool to improve organization, operations, communication, and real-time decisions.
 
 **When**
 
-The problem topic affect when the restaurant organization is bad or regular and the clients are mad for the bad service from the restaurant. So,
-in that case is really needed a good software to optimize the speed and organization.
+The problem topic arises when the restaurant's organization is poor or regular, and clients are dissatisfied with the bad service from the restaurant. In that case, it is necessary to have good software to optimize speed and organization.
 
 **Where**
 
-The necessity of all these features are present in all restaurants, the important and signicant advantage of speed, organization and operations over 
-other restaurants is indisputable.
+The necessity of all these features is present in all restaurants. The significant advantage of speed, organization, and operations over other restaurants is indisputable.
 
 **Why**
 
-The ineficient management/organization can get worse the economy, communication, environment, etc. Consequently, it becomes to a unsatisfactory experience
-to the client. 
+Inefficient management/organization can worsen the economy, communication, environment, etc. Consequently, it leads to an unsatisfactory experience for the client. 
 
 **How**
 
-Birdz App address this problem by providing a complete platform that pledge an intuitive UI and a complete list of operations, segments, etc. In this 
-way, the business'll be easier to take advantage to. 
+Birdz App addresses this problem by providing a complete platform that pledges an intuitive UI and a comprehensive list of operations, segments, etc. In this way, the business will be easier to manage.
 
 **How much**
 
-At the begin of subscription Model. Each company that wants the software must pay the service's cost.
+At the beginning of the subscription model, each company that wants the software must pay the service's cost.
 
 ### 1.2.2 Lean UX Process.
 
