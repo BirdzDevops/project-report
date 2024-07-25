@@ -54,6 +54,14 @@
         </tr>
         <tr>
             <td>SPRINT 1</td>
+            <td>24/07/2024</td>
+            <td>Victor Manuel Meneses Arevalo</td>
+            <td>
+                <ul>
+                    <li>Chapter 1: Introduction</li>
+                    <li>StartUp Description</li>
+                </ul>
+            </td>
         </tr>
     </tbody>
 </table>
