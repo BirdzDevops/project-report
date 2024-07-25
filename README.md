@@ -47,8 +47,9 @@
             <td>Mauricio Abraham Rivo Rojas Sánchez</td>
             <td>
                 <ul>
-                    <li>Chapter 1: Introduction</li>
-                    <li>StartUp Profile</li>
+                    <li>Solution Profile</li>
+                    <li>5W and 2H</li>
+                    <li>Lean UX Canvas</li>
                 </ul>
             </td>
         </tr>
@@ -256,7 +257,7 @@ In this section, we log all the changes and commits done in the Github Organizat
 
 [Anexos](#anexos)
 
-# Capítulo I: Introducción
+# Capítulo I: Introduction
 
 ## 1.1.1 Startup Description 
 
@@ -270,14 +271,14 @@ In this section, we log all the changes and commits done in the Github Organizat
 - **Delivery Management:** Register delivery orders, assign orders to couriers, and track deliveries in real-time to ensure efficient and timely service.
 
 
-### 1.1.1. Descripción de la Startup
+### 1.1.1. StartUp Description
 
 
 ## 1.2. Solution Profile
 
 The objective of Birdz Application is to offer a complete service to all the roles in the business. For example, the suppliers, clients, workers, and administrators. It's important to mention that it also attends to the storage necessity, like notifications when the supplies are almost empty.
 
-### 1.2.1 Antecedentes y problemática
+### 1.2.1 Problem and Background
 
 To compete with our competitors, we have to recognize our background and problem to solve.
 
