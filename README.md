@@ -332,28 +332,87 @@ We start with the "Problem Statements," which cover aspects such as the domain, 
 
 ### 1.2.2.1 Lean UX Problem Statements
 **Problem Statement:**
-Efficient restaurant management presents significant challenges, especially for large restaurant chains like Birdz, due to the lack of integrated tools that address all business facets. Managing income, inventory, suppliers, and human resources across multiple locations can result in revenue loss, resource waste, and unsatisfactory customer experiences.
+Efficient restaurant management presents significant challenges, including the lack of integrated tools that address all business facets. Owners and managers face difficulties in effectively managing income, inventory, suppliers, and human resources, which can result in revenue loss, resource waste, and unsatisfactory customer experiences.
 
 **Domain:**
-We focus exclusively on large restaurant chains, specifically Birdz, recognizing the unique needs and operational management challenges inherent to this scale of operation.
+We focus on the restaurant industry. We recognize the diversity and complexity of this sector, which ranges from small family-owned restaurants to large chains, each with its unique needs and operational management challenges.
 
 **Customer Segments:**
-Our primary target is the management teams of large restaurant chains, particularly those overseeing operations at Birdz. These individuals face complex challenges in coordinating and optimizing various aspects of restaurant management across numerous locations.
+We target the owners and managers of Birdz, as well as its staff, administrators, and suppliers. We understand that restaurant management encompasses a wide range of establishments, and our platform is designed to adapt to the needs of all these segments.
 
 **Pain Points:**
-Difficulty in accurately tracking consolidated restaurant income and expenses across multiple locations: The lack of adequate tools hinders effective monitoring of financial flows, leading to potential mismanagement and revenue loss.
-Challenges in managing inventory and supplier relationships across multiple outlets: Coordinating inventory levels and communication with suppliers can be complicated and time-consuming, risking supply shortages or excess stock in certain locations.
-Complexities in managing staff and human resources across multiple units: Scheduling shifts, tracking attendance, performance evaluations, and payroll management become increasingly challenging as the chain expands.
+
+- **Difficulty in accurately tracking restaurant income and expenses:** The lack of adequate tools hinders effective monitoring of financial flows, which can lead to incorrect decisions and lost revenue.
+- **Challenges in inventory management and supplier relationships:** Coordinating inventory and communication with suppliers can be complicated and time-consuming, resulting in supply shortages or overstock.
+- **Complexities in managing staff and human resources:** Scheduling shifts, tracking attendance, performance evaluations, and payroll management are just some of the laborious tasks restaurant managers face in managing their staff.
 
 **Vision/Strategy:**
-Our vision is to provide a comprehensive and easy-to-use solution tailored specifically for large restaurant chains like Birdz. We aim to improve operational efficiency and customer experience by offering a centralized platform that simplifies and optimizes all operations related to restaurant management across multiple locations.
+
+Our vision is to provide an all-in-one, easy-to-use solution that addresses all the management needs of a restaurant, from finances to human resources. We strive to improve operational efficiency and customer experience by offering a centralized platform that simplifies and optimizes all operations related to restaurant management.
 
 **Initial Segment:**
-We initially focus on Birdz, recognizing the importance of offering specialized and scalable tools for large chains that often face unique challenges in managing their operations efficiently and competitively in the market.
+
+We initially focus on independent restaurants and small restaurant chains that seek accessible and efficient solutions to optimize their operations. We recognize the importance of providing affordable and adaptable tools for these segments, which often lack the resources of large chains but have an urgent need to improve their efficiency and competitiveness in the market.
 
 
 #### 1.2.2.2. Lean UX Assumptions.
 
+In this section, we cover the assumptions we can expect from our solution, from the features it should have to the outcomes from both our perspective and the users.
+
+**Features:**
+
+Here we list the tools we plan to implement in our solution.
+
+- **Real-Time Tracking of Income and Expenses:** A tool to record and analyze the restaurant's financial flows, providing an instant view of the economic situation.
+- **Inventory Management and Supplier Relationships:** Features to maintain precise control of the restaurant's supplies and facilitate communication with suppliers to place orders efficiently.
+- **Staff Management Modules:** Tools to manage schedules, payroll, and performance evaluations of staff, optimizing human resource management.
+- **Intuitive and Informative Interface:** An easy-to-use interface adaptable to the specific needs of each restaurant, ensuring a smooth and personalized user experience.
+- **Real-Time Delivery Tracking:** Monitoring delivery orders, assigning orders to couriers, and tracking deliveries in real-time to ensure efficient and timely service.
+- **Customer Ordering and Reservation System:** Features that allow customers to place orders, reserve tables, and manage their dining experiences remotely.
+- **AI-Powered Alerts:** Implementing AI to alert when supplies are low or when an ingredient is almost out, and managing general alerts for better inventory control.
+
+**Business Outcomes:**
+
+Here we focus on what we aim to achieve as a restaurant management solution and what we need to see to know that our solution was successful and had the desired impact.
+
+- **Leader in Technological Solutions for Restaurant Management:** We aim to be recognized as one of the leading players in the market for restaurant management software solutions by constantly incorporating new technologies, having an efficient and productive system for clients with features that anticipate, adapt, and respond to their needs.
+- **Increase in Operational Efficiency:** After implementing the Birdz Management System, we expect a 30% reduction in time spent on administrative tasks such as inventory management and creating purchase orders when supplies are low, resulting in a tangible improvement in the restaurant's operational efficiency.
+- **Improvement in Customer Satisfaction:** With the Birdz Management System, we expect to see an increase in the average customer satisfaction rating thanks to the ability to track orders, reserve tables remotely, and more.
+- **Increase in Customer Base:** By digitizing more processes and making them available online, we anticipate an increase in the number of customers who can place their orders and reservations through the web, leading to an increase in the total number of orders.
+- **Improvement in Profitability:** We expect a 10-15% increase in net profits within six months due to the increase in customer base, reduction in time spent on administrative tasks, and other optimizations facilitated by the system.
+
+**Users:**
+
+These are the users our solution is aimed at.
+
+- Owners and managers of Birdz
+- Staff
+- Administrators
+- Suppliers
+
+**User Outcomes & Benefits:**
+
+These are the immediate benefits users will gain from our solution.
+
+- **Convenient Access to the Platform:** Users can easily access all the necessary tools for restaurant management from a single platform.
+- **Real-Time Data-Driven Decision Making:** The availability of up-to-date information allows users to make informed and strategic decisions at the right time.
+- **Reduction in Stress and Workload:** By automating processes and simplifying tasks, the Birdz Management System helps reduce the workload and stress associated with manual management processes.
+- **Facilitation of Specific Tasks:** Such as accounting, supply purchases, or staff management.
+- **Greater Efficiency and Communication:** With integrated systems that optimize task processes and direct communication systems, operational coordination is optimized.
+- **Transparency of Actions and Greater Trust:** Creating a seamless experience that satisfies customers, especially in transactions, reservations, and orders.
+
+**Business Assumptions:**
+
+These are the assumptions we can make about our business.
+
+- We believe that restaurants have a growing need for technological solutions that improve operational efficiency and business profitability.
+- This need can be successfully addressed by the Birdz Management System, which offers an all-in-one, easy-to-use platform for restaurant management.
+- The primary value our customers seek is a solution that simplifies the daily management of the restaurant and enhances the customer experience.
+- We anticipate acquiring most of our customers through marketing strategies aimed at restaurant owners and managers, as well as through partnerships within the restaurant industry.
+- We will generate revenue primarily through a one-time payment for the system, with the customer responsible for the cost of servers.
+- While we face competition from other restaurant management solutions, we are confident that we can stand out through service quality, ease of use, and the ability to adapt to the specific needs of each restaurant.
+- The main risk we face is not meeting customer expectations in terms of functionality, performance, and technical support.
+- We plan to mitigate this risk by maintaining a customer-centric focus, providing continuous support, and regularly updating our platform to meet the changing needs of the restaurant market.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
