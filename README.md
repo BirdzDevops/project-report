@@ -72,6 +72,33 @@ In this section, we log all the changes and commits done in the Github Organizat
 
 ## SPRINT 1
 
+### 1.2.2 Lean UX Process
+The Lean UX process addresses the business model vision that supports our project, with our main product being the software. Throughout this document and in this chapter, we explore several key elements of this process.
+
+We start with the "Problem Statements," which cover aspects such as the domain, customer segments, pain points, gaps, vision/strategy, and the initial segment. Following the Lean UX methodology, we also consider the "Assumptions Statements" and the "Hypothesis Statements."
+
+### 1.2.2.1 Lean UX Problem Statements
+**Problem Statement:**
+Efficient restaurant management presents significant challenges, especially for large restaurant chains like Birdz, due to the lack of integrated tools that address all business facets. Managing income, inventory, suppliers, and human resources across multiple locations can result in revenue loss, resource waste, and unsatisfactory customer experiences.
+
+**Domain:**
+We focus exclusively on large restaurant chains, specifically Birdz, recognizing the unique needs and operational management challenges inherent to this scale of operation.
+
+**Customer Segments:**
+Our primary target is the management teams of large restaurant chains, particularly those overseeing operations at Birdz. These individuals face complex challenges in coordinating and optimizing various aspects of restaurant management across numerous locations.
+
+**Pain Points:**
+Difficulty in accurately tracking consolidated restaurant income and expenses across multiple locations: The lack of adequate tools hinders effective monitoring of financial flows, leading to potential mismanagement and revenue loss.
+Challenges in managing inventory and supplier relationships across multiple outlets: Coordinating inventory levels and communication with suppliers can be complicated and time-consuming, risking supply shortages or excess stock in certain locations.
+Complexities in managing staff and human resources across multiple units: Scheduling shifts, tracking attendance, performance evaluations, and payroll management become increasingly challenging as the chain expands.
+
+**Vision/Strategy:**
+Our vision is to provide a comprehensive and easy-to-use solution tailored specifically for large restaurant chains like Birdz. We aim to improve operational efficiency and customer experience by offering a centralized platform that simplifies and optimizes all operations related to restaurant management across multiple locations.
+
+**Initial Segment:**
+We initially focus on Birdz, recognizing the importance of offering specialized and scalable tools for large chains that often face unique challenges in managing their operations efficiently and competitively in the market.
+
+
 ## SPRINT 2
 
 ## SPRINT 3
