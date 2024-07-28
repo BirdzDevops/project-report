@@ -633,7 +633,10 @@ These User Journey Maps outline the key tasks and interactions each segment has 
 
 ## 2.3.4. Empathy Mapping 
 
-
+During this process, we've collected really important behavior patterns, commons topics, and 
+data analysis. After that, we created one profile that represents each target segment. Finally, we 
+used the collected information to design a "Empathy Map" that organize emotions, thoughts and 
+actions of the users.
 
 ## 2.3.5. As-Is Scenario Mapping
 
