@@ -553,23 +553,87 @@ like frequence and importance, we understand better the necessities and challeng
 This section will detail all the important interactions with BIRDZ, contact facts and emotive experience by the application. The objective is identify opportunities of improvement and optimize 
 the user experience. The following description process:
 
-**User Journey Map - Administrator** <br>
+Sure, here's the completed User Journey Map for each target segment:
 
+### User Journey Map - Administrator
 
+**Beginning of the Day**:
 
-**User Journey Map - Employee** <br>
+- Staff Supervision: Ensure all employees are present and ready for their shifts.
+- Review Daily Schedule: Check the schedule for the day, including reservations and events.
+- Compliance Check: Verify that the restaurant is compliant with regulatory standards.
 
+**Middle of the Day**:
 
+- Staff Training: Conduct or oversee any ongoing training sessions.
+- Negotiation with Suppliers: Communicate with suppliers to manage inventory and order ingredients.
+- Performance Evaluation: Monitor and evaluate staff performance throughout the day.
+- Financial Reporting: Review and update financial and accounting reports.
 
-**User Journey Map - Provider** <br>
+**End of the Day**:
 
+- Staff Performance Review: Provide feedback to staff on their performance.
+- Compliance Check: Ensure all regulatory compliance tasks are completed.
+- Closing Procedures: Oversee the closing of the restaurant, ensuring everything is secure and ready for the next day.
 
+### User Journey Map - Employee
 
-**User Journey Map - Customer** <br>
+**Beginning of the Day**:
 
+- Preparation: Set up the restaurant for opening, including cleaning and organizing the space.
+- Staff Briefing: Attend the morning briefing to understand the tasks and goals for the day.
+- Customer Interaction: Prepare to welcome the first customers and take their orders.
 
+**Middle of the Day**:
+
+- Order Management: Manage customer orders, ensuring timely and accurate service.
+- Food Quality Verification: Ensure all food served meets quality standards.
+- Respond to Inquiries: Address customer questions and requests promptly.
+
+**End of the Day**:
+
+- Cleaning: Clean the restaurant after service, including dining areas and kitchen.
+- Inventory Check: Assist in checking inventory levels and report any shortages.
+- Closing Procedures: Help with closing the restaurant, including securing all areas and preparing for the next day.
+
+### User Journey Map - Provider
+
+**Beginning of the Day**:
+
+- Delivery Scheduling: Plan and schedule deliveries for the day.
+- Quality Check: Ensure all products are of high quality and ready for delivery.
+
+**Middle of the Day**:
+
+- Delivery Coordination: Deliver ingredients and supplies to the restaurant.
+- Feedback Collection: Collect feedback from the restaurant on the quality and timeliness of deliveries.
+
+**End of the Day**:
+
+- Payment Management: Ensure all invoices are submitted and payments are managed.
+- Schedule Planning: Plan for the next day’s deliveries and coordinate with the restaurant for any special requirements.
+
+### User Journey Map - Customer
+
+**Beginning of the Day**:
+
+- Reservation/Order: Make a reservation or place an order for the day.
+
+**Middle of the Day**:
+
+- Arrival: Arrive at the restaurant and check-in for the reservation.
+- Dining Experience: Enjoy the meal, interact with staff, and provide feedback if necessary.
+
+**End of the Day**:
+
+- Feedback: Provide feedback on the dining experience through reviews or surveys.
+- Participation in Loyalty Programs: Engage in any loyalty programs or promotions offered by the restaurant.
+
+These User Journey Maps outline the key tasks and interactions each segment has throughout a typical day, ensuring smooth operations and a positive experience for everyone involved in the restaurant business.
 
 ## 2.3.4. Empathy Mapping 
+
+
 
 ## 2.3.5. As-Is Scenario Mapping
 
