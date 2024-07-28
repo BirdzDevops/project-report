@@ -550,6 +550,25 @@ like frequence and importance, we understand better the necessities and challeng
 
 ## 2.3.3. User Journey Mapping
 
+This section will detail all the important interactions with BIRDZ, contact facts and emotive experience by the application. The objective is identify opportunities of improvement and optimize 
+the user experience. The following description process:
+
+**User Journey Map - Administrator** <br>
+
+
+
+**User Journey Map - Employee** <br>
+
+
+
+**User Journey Map - Provider** <br>
+
+
+
+**User Journey Map - Customer** <br>
+
+
+
 ## 2.3.4. Empathy Mapping 
 
 ## 2.3.5. As-Is Scenario Mapping
