@@ -481,3 +481,20 @@ Based on our identified users, we have defined our target segments to which our 
 - **Characteristics:** Suppliers provide the necessary ingredients and materials for the restaurant. They need a reliable and efficient system for managing orders and inventory levels. Good communication and timely responses are crucial for maintaining a smooth supply chain and ensuring the restaurant’s needs are met without disruption.
 - **Demographics:** Typically businesses rather than individuals, with varying sizes from small local suppliers to larger distributors. They generally have a strong focus on logistics and supply chain management.
 
+
+## 2.3.2. User Task Matrix
+
+This section presents User Task Matrix, it's a tool that allow identify important and frequently tasks that do the "User Personas" in their laboral 
+environment. By this matrix, we can compare and constrast the more frequently tasks of workers, administrators and customers. By comparing facts 
+like frequence and importance, we understand better the necessities and challenges of our "User Personas".
+
+
+
+
+## 2.3.3. User Journey Mapping
+
+## 2.3.4. Empathy Mapping 
+
+## 2.3.5. As-Is Scenario Mapping
+
+# 2.4. Ubiquitous Language
