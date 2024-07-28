@@ -485,10 +485,67 @@ Based on our identified users, we have defined our target segments to which our 
 ## 2.3.2. User Task Matrix
 
 This section presents User Task Matrix, it's a tool that allow identify important and frequently tasks that do the "User Personas" in their laboral 
-environment. By this matrix, we can compare and constrast the more frequently tasks of workers, administrators and customers. By comparing facts 
+environment. By this matrix, we can compare and constrast the more frequently tasks of provider, administrators and customers. By comparing facts 
 like frequence and importance, we understand better the necessities and challenges of our "User Personas".
 
+| Task                                           | Manager (Frequency / Importance) | Employee (Frequency / Importance) | Customers (Frequency / Importance) | Providers (Frequency / Importance) |
+|------------------------------------------------|-----------------------------|---------------------------|--------------------------|----------------------------|
+| Staff supervision                              | High / High                 | Medium / High             | N/A                      | N/A                        |
+| Restaurant cleaning scheduling                 | Medium / Medium             | High / High               | N/A                      | N/A                        |
+| Staff shift scheduling                         | High / High                 | Low / Medium              | N/A                      | N/A                        |
+| Negotiation with suppliers                     | High / High                 | Low / Low                 | N/A                      | High / High                |
+| Staff training                                 | High / High                 | Medium / High             | N/A                      | N/A                        |
+| Staff performance evaluation                   | Medium / High               | Medium / High             | N/A                      | N/A                        |
+| Compliance with regulatory principles          | High / High                 | High / High               | N/A                      | N/A                        |
+| Equipment maintenance scheduling               | Medium / Medium             | High / High               | N/A                      | N/A                        |
+| Inventory management                           | High / High                 | Medium / High             | N/A                      | High / High                |
+| Resource management                            | High / High                 | Low / Low                 | N/A                      | N/A                        |
+| Food quality verification                      | Medium / High               | High / Medium             | High / High              | High / High                |
+| Staff permissions management                   | High / High                 | Low / High                | N/A                      | N/A                        |
+| Work shift scheduling                          | High / High                 | Low / Medium              | N/A                      | N/A                        |
+| Event or activity planning                     | Medium / High               | Low / Low                 | High / High              | N/A                        |
+| Financial and accounting report preparation    | High / High                 | Medium / High             | N/A                      | N/A                        |
+| Reservation control                            | Medium / Medium             | High / High               | High / High              | N/A                        |
+| Customer order management                      | Medium / Medium             | High / High               | High / High              | N/A                        |
+| Responding to customer inquiries and requests  | Low / Low                   | Medium / High             | High / High              | N/A                        |
+| Establishing regulatory principles             | High / High                 | Low / Medium              | N/A                      | N/A                        |
+| Public relations and marketing                 | High / High                 | Medium / High             | High / High              | N/A                        |
+| Coordination of supplier deliveries            | High / High                 | Medium / High             | N/A                      | High / High                |
+| Receiving deliveries                           | Medium / High               | High / High               | N/A                      | High / High                |
+| Providing feedback on ingredients              | Medium / High               | Medium / High             | N/A                      | High / High                |
+| Payment management for suppliers               | High / High                 | Low / Low                 | N/A                      | High / High                |
+| Participation in loyalty programs              | Medium / Medium             | Medium / Medium           | High / High              | N/A                        |
+| Reviews and recommendations                    | Medium / High               | High / High               | High / High              | N/A                        |
 
+### Tasks with the Highest Frequency and Importance:
+
+**Staff Supervision**: This task is crucial for both the manager and the employee, as it ensures that all assigned functions and roles are carried out in an organized, efficient, and correct manner.
+
+**Food Quality Verification**: This task is of high importance to both the manager and the employee, as it ensures customer satisfaction and meets the expectations customers have of the restaurant. For the employee, it is a highly important task as it facilitates maintaining the quality standards of the restaurant.
+
+**Staff Performance Evaluation**: Both the manager and the employee perform this task with high frequency and importance, as it ensures that the restaurant has workers and administrators who fulfill their roles and functions quickly and organized according to the restaurant’s standards.
+
+**Compliance with Regulatory Principles**: This task is of high importance for the manager. Ensuring regulatory compliance means following established procedures and policies, as well as guaranteeing that all activities are carried out in accordance with the applicable regulations and standards in the restaurant industry.
+
+**Work Shift Scheduling**: Coordinating the needs of the restaurant with the availability of the staff is crucial for efficient and effective restaurant operations. Both the workers and the manager play important roles in this process, each with different levels of responsibility and authority.
+
+**Staff Training**: Training the staff is fundamental for both the workers and the restaurant managers to ensure that the staff is well-prepared and has the necessary skills to provide quality service to customers and contribute to the overall success of the restaurant.
+
+**Customer Order Management**: This task is crucial for both segments, as it allows for controlling customer orders and ensuring they are satisfied with their dining experience, facilitating efficient service and operations.
+
+### Main Differences and Similarities Between the Roles:
+
+**Differences**:
+
+- **Negotiation with Suppliers**: This is a task of high importance for the manager but of low importance for the staff. This reflects the level of responsibility and the strategic nature of the decisions the manager makes compared to the more operational tasks of the employee.
+  
+- **Responding to Customer Inquiries and Requests**: This task is of high importance for the staff, as they interact more with the customers and are more available to address their inquiries and requests. Conversely, it is of low importance for the manager as their role is more related to the logical and administrative aspects of the business.
+
+**Similarities**:
+
+- **Staff Performance Evaluation**: Both the manager and the employee participate in evaluating staff performance, highlighting the shared importance of ensuring a well-trained and motivated team to provide quality service.
+  
+- **Financial and Accounting Report Preparation**: This task is of high importance for both roles, emphasizing the need to make data-driven decisions to improve operational efficiency and customer experience.
 
 
 ## 2.3.3. User Journey Mapping
