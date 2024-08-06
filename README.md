@@ -1246,29 +1246,9 @@ En esta sección, se mostrará todo lo relacionado con la representación de los
 
 ## 4.8. Database Design.
 
-En esta sección, se mostrarán los diagramas de la base de datos.
+This section will show our Database Diagram.
 
 ### 4.8.1. Database Diagram.
-
-![Landing page mockup](https://i.imgur.com/IOSQez5.jpeg)
-[Link en vertabelo] (https://my.vertabelo.com/public-model-view/y5cEtJOUeF1ZM1f5dcRPEs18CAgraR1tSS5dKVobixiEcaZPlqGyj7D1GBAxQo6L?x=1371&y=1603&zoom=0.2637)
-
-![Landing page mockup](https://i.imgur.com/Q0pcf0f.png)
-<br>
-![Landing page mockup](https://i.imgur.com/6dIXiXX.png)
-<br>
-![Landing page mockup](https://i.imgur.com/dAE1YKR.png)
-<br>
-![Landing page mockup](https://i.imgur.com/IYAlQoZ.png)
-<br>
-![Landing page mockup](https://i.imgur.com/WjemYVT.png)
-<br>
-![Landing page mockup](https://i.imgur.com/ykIemiU.png)
-<br>
-![Landing page mockup](https://i.imgur.com/Rmcj3Vz.png)
-<br>
-
-
 
 
 
