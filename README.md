@@ -845,7 +845,50 @@ El To-Be Scenario Mapping para el segmento Trabajadores.
 
 ## 3.2. User Stories.
 
-Redactamos las historias de usuario para el sistema de gestión hotelera basándonos en las necesidades y desafíos identificados en las entrevistas y el análisis de los segmentos de gerentes y trabajadores. Las historias de usuario describen las funcionalidades y características que los usuarios finales esperan del sistema, y se utilizan para guiar el diseño y desarrollo del producto.                                                                                                                                  
+Redactamos las historias de usuario para el sistema de gestión hotelera basándonos en las necesidades y desafíos identificados en las entrevistas y el análisis de los segmentos de gerentes y trabajadores. Las historias de usuario describen las funcionalidades y características que los usuarios finales esperan del sistema, y se utilizan para guiar el diseño y desarrollo del producto.                                                                                                                 
+## Administrador -M
+
+Here is the table in Markdown format:
+
+| User Story ID | User Story | Description | Acceptance Criteria | Epic Id |
+|---------------|------------|-------------|---------------------|--------|
+| HU01 | As an administrator, I want to track daily income and expenses so that I can monitor the restaurant's financial health. | Detailed tracking of all financial transactions. | Accurate daily, weekly, and monthly reports of income and expenses. | EP01 |
+| HU02 | As an administrator, I want to manage inventory levels in real-time so that I can prevent shortages and waste. | Real-time inventory tracking and alerts for low stock. | Inventory levels updated automatically with each transaction. | EP01 |
+| HU03 | As an administrator, I want to set reorder thresholds for supplies so that I can automate restocking. | Automated reorder alerts when stock falls below thresholds. | Notifications for items needing restocking. | EP01 |
+| HU04 | As an administrator, I want to view supplier information and order history so that I can manage supplier relationships effectively. | Comprehensive supplier profiles and order histories. | Access to past orders and supplier contact information. | EP01 |
+| HU05 | As an administrator, I want to generate and view financial reports so that I can make informed business decisions. | Generate reports on income, expenses, and profits. | Customizable financial reports available on demand. | EP01 |
+| HU06 | As an administrator, I want to track delivery orders in real-time so that I can ensure timely service. | Real-time tracking of delivery orders. | Status updates and delivery tracking for all orders. | EP01 |
+| HU07 | As an administrator, I want to assign delivery orders to couriers so that I can streamline the delivery process. | Assign and manage delivery orders. | Efficient assignment and tracking of deliveries. | EP01 |
+| HU08 | As an administrator, I want to manage employee schedules so that I can ensure adequate staffing. | Employee scheduling and shift management. | Automated scheduling and notifications for employees. | EP01 |
+| HU09 | As an administrator, I want to track employee performance so that I can identify areas for improvement. | Performance metrics and feedback system. | Regular performance reports and feedback options. | EP01 |
+| HU10 | As an administrator, I want to manage customer feedback and reviews so that I can improve service quality. | Customer feedback and review management. | Easy access to customer reviews and feedback. | EP01 |
+| HU11 | As an administrator, I want to create promotional offers so that I can attract more customers. | Create and manage promotional offers. | Ability to set and track promotions and discounts. | EP01 |
+| HU12 | As an administrator, I want to view sales trends so that I can identify popular items and peak hours. | Sales trend analysis and reporting. | Insights into best-selling items and busiest times. | EP01 |
+| HU13 | As an administrator, I want to integrate the system with accounting software so that I can streamline financial management. | Integration with popular accounting software. | Seamless data transfer to accounting platforms. | EP01 |
+| HU14 | As an administrator, I want to manage table reservations so that I can optimize seating and reduce wait times. | Table reservation and management system. | Real-time table availability and reservation management. | EP01 |
+| HU15 | As an administrator, I want to monitor kitchen performance so that I can ensure efficient food preparation and service. | Kitchen performance tracking. | Reports on preparation times and order accuracy. | EP01 |
+| HU16 | As an administrator, I want to track food waste so that I can reduce costs and improve sustainability. | Food waste tracking and reporting. | Insights into waste patterns and reduction strategies. | EP01 |
+| HU17 | As an administrator, I want to customize the system interface so that it meets the specific needs of my restaurant. | Customizable system interface. | Ability to personalize dashboards and settings. | EP01 |
+| HU18 | As an administrator, I want to manage loyalty programs so that I can retain customers. | Loyalty program management. | Tracking of customer points and rewards. | EP01 |
+| HU19 | As an administrator, I want to access the system remotely so that I can manage the restaurant from anywhere. | Remote access capabilities. | Secure and reliable remote login options. | EP01 |
+| HU20 | As an administrator, I want to ensure data security so that sensitive information is protected. | Robust data security measures. | Compliance with data protection regulations and secure access controls. | EP01 |
+
+## Supplier -M
+
+| HUX / EPX | User Storie / Epic | Description | Acceptance Cryteria | Epic Id | 
+|----------|--------------------------|----------------------|-------------------------|------------------|
+| EP03 | Sistema integral de gestión empresarial para operaciones de restaurantes, incluyendo proveedores, trabajadores, entregas y seguimiento en tiempo real. | Plataforma de pedidos y entrega de comida en línea con seguimiento en tiempo real y interfaz amigable para el usuario. | Plataforma de pedidos y entrega de comida en línea con varias opciones de pago y seguimiento de pedidos en tiempo real. ||
+| HU01 | Ofrece una solución completa, sencilla, ademas de ser altamente personalizable y escalable gracias a DDD, para administrar todos los aspectos de las operaciones de restaurantes con capacidades de seguimiento en tiempo real. | Llegada masiva y base de usuarios, ofreciendo conveniencia y varias promociones. | Fuerte presencia en América Latina con un enfoque en conveniencia y múltiples opciones de pago. | EP02 |
+
+
+
+## Developers -M
+
+| HUX / EPX | User Storie / Epic | Description | Acceptance Cryteria | Epic Id | 
+|----------|--------------------------|----------------------|-------------------------|------------------|
+| EP04 | Sistema integral de gestión empresarial para operaciones de restaurantes, incluyendo proveedores, trabajadores, entregas y seguimiento en tiempo real. | Plataforma de pedidos y entrega de comida en línea con seguimiento en tiempo real y interfaz amigable para el usuario. | Plataforma de pedidos y entrega de comida en línea con varias opciones de pago y seguimiento de pedidos en tiempo real. ||
+| HU01 | Ofrece una solución completa, sencilla, ademas de ser altamente personalizable y escalable gracias a DDD, para administrar todos los aspectos de las operaciones de restaurantes con capacidades de seguimiento en tiempo real. | Llegada masiva y base de usuarios, ofreciendo conveniencia y varias promociones. | Fuerte presencia en América Latina con un enfoque en conveniencia y múltiples opciones de pago. | EP02 |
+
 
 ## 3.3. Impact Mapping.
 
@@ -859,12 +902,6 @@ En esta sección se explican y se presentan los Impact Mappings. Creados a parti
 
 A continuación, se mostrara el Product Backlog creado a partir de las Historias de Usuario que conseguimos, ordenadas de menor a mayor Story Points.
 
-## Administrador -M
-
-| HUX / EPX | User Storie / Epic | Description | Acceptance Cryteria | Epic Id | 
-|----------|--------------------------|----------------------|-------------------------|------------------|
-| EP01 | Sistema integral de gestión empresarial para operaciones de restaurantes, incluyendo proveedores, trabajadores, entregas y seguimiento en tiempo real. | Plataforma de pedidos y entrega de comida en línea con seguimiento en tiempo real y interfaz amigable para el usuario. | Plataforma de pedidos y entrega de comida en línea con varias opciones de pago y seguimiento de pedidos en tiempo real. ||
-| HU01 | Ofrece una solución completa, sencilla, ademas de ser altamente personalizable y escalable gracias a DDD, para administrar todos los aspectos de las operaciones de restaurantes con capacidades de seguimiento en tiempo real. | Llegada masiva y base de usuarios, ofreciendo conveniencia y varias promociones. | Fuerte presencia en América Latina con un enfoque en conveniencia y múltiples opciones de pago. | EP01 |
 
 ## Trabajador -V
 
@@ -873,21 +910,7 @@ A continuación, se mostrara el Product Backlog creado a partir de las Historias
 | EP02 | Sistema integral de gestión empresarial para operaciones de restaurantes, incluyendo proveedores, trabajadores, entregas y seguimiento en tiempo real. | Plataforma de pedidos y entrega de comida en línea con seguimiento en tiempo real y interfaz amigable para el usuario. | Plataforma de pedidos y entrega de comida en línea con varias opciones de pago y seguimiento de pedidos en tiempo real. ||
 | HU01 | Ofrece una solución completa, sencilla, ademas de ser altamente personalizable y escalable gracias a DDD, para administrar todos los aspectos de las operaciones de restaurantes con capacidades de seguimiento en tiempo real. | Llegada masiva y base de usuarios, ofreciendo conveniencia y varias promociones. | Fuerte presencia en América Latina con un enfoque en conveniencia y múltiples opciones de pago. | EP02 |
 
-## Supplier -M
-
-| HUX / EPX | User Storie / Epic | Description | Acceptance Cryteria | Epic Id | 
-|----------|--------------------------|----------------------|-------------------------|------------------|
-| EP03 | Sistema integral de gestión empresarial para operaciones de restaurantes, incluyendo proveedores, trabajadores, entregas y seguimiento en tiempo real. | Plataforma de pedidos y entrega de comida en línea con seguimiento en tiempo real y interfaz amigable para el usuario. | Plataforma de pedidos y entrega de comida en línea con varias opciones de pago y seguimiento de pedidos en tiempo real. ||
-| HU01 | Ofrece una solución completa, sencilla, ademas de ser altamente personalizable y escalable gracias a DDD, para administrar todos los aspectos de las operaciones de restaurantes con capacidades de seguimiento en tiempo real. | Llegada masiva y base de usuarios, ofreciendo conveniencia y varias promociones. | Fuerte presencia en América Latina con un enfoque en conveniencia y múltiples opciones de pago. | EP02 |
-
 ## Customer -V
-
-| HUX / EPX | User Storie / Epic | Description | Acceptance Cryteria | Epic Id | 
-|----------|--------------------------|----------------------|-------------------------|------------------|
-| EP04 | Sistema integral de gestión empresarial para operaciones de restaurantes, incluyendo proveedores, trabajadores, entregas y seguimiento en tiempo real. | Plataforma de pedidos y entrega de comida en línea con seguimiento en tiempo real y interfaz amigable para el usuario. | Plataforma de pedidos y entrega de comida en línea con varias opciones de pago y seguimiento de pedidos en tiempo real. ||
-| HU01 | Ofrece una solución completa, sencilla, ademas de ser altamente personalizable y escalable gracias a DDD, para administrar todos los aspectos de las operaciones de restaurantes con capacidades de seguimiento en tiempo real. | Llegada masiva y base de usuarios, ofreciendo conveniencia y varias promociones. | Fuerte presencia en América Latina con un enfoque en conveniencia y múltiples opciones de pago. | EP02 |
-
-## Developers -M
 
 | HUX / EPX | User Storie / Epic | Description | Acceptance Cryteria | Epic Id | 
 |----------|--------------------------|----------------------|-------------------------|------------------|
