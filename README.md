@@ -857,7 +857,9 @@ To-Be Scenario Mapping for the Target Segment "Supplier".
 
 ## 3.2. User Stories.
 
-We drafted the user stories for the hotel management system based on the needs and challenges identified in the interviews and the analysis of the manager and worker segments. The user stories describe the functionalities and features that the end-users expect from the system and are used to guide the design and development of the product.                                                                                                               
+We drafted the user stories for the hotel management system based on the needs and challenges identified in the interviews and the analysis of the manager and worker segments. The user stories describe the functionalities and features that the end-users expect from the system and are used to guide the design and development of the product.
+
+
 **Administrador**
 
 Here are 20 user stories for the **Birdz Management System** focused on the supplier segment:
