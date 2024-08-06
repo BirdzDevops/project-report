@@ -638,6 +638,63 @@ data analysis. After that, we created one profile that represents each target se
 used the collected information to design a "Empathy Map" that organize emotions, thoughts and 
 actions of the users.
 
+**Administrator Target Segment**
+
+
+
+**Customer Target Segment**
+
+
+
+**Provider Target Segment**
+
+
+
+**Employee Target Segment**
+
+
+
 ## 2.3.5. As-Is Scenario Mapping
 
+
 # 2.4. Ubiquitous Language
+
+**General Terms**
+Restaurant: BIRDZ, the establishment offering food and services.
+Menu: The list of available dishes and beverages offered by BIRDZ.
+Order: A request by a Customer for specific dishes and beverages.
+Reservation: A booking made by a Customer for a table at BIRDZ.
+Inventory: The stock of ingredients and supplies needed for the restaurant.
+<br>
+**Customers**
+Customer: An individual who visits BIRDZ to dine.
+Loyalty Program: A system to reward regular Customers with discounts and special offers.
+Feedback: Comments and ratings provided by Customers about their dining experience.
+Customer Profile: Information about a Customer, including contact details and dining preferences.
+<br>
+**Suppliers**
+Supplier: A business or individual providing ingredients and supplies to BIRDZ.
+Purchase Order: A formal request sent to a Supplier for specific ingredients and supplies.
+Delivery Schedule: The agreed-upon times and dates for Suppliers to deliver goods to BIRDZ.
+Invoice: A bill sent by a Supplier to BIRDZ for delivered goods.
+<br>
+**Administrators**
+Administrator: A person responsible for managing operations at BIRDZ.
+Sales Report: A document detailing the revenue and sales performance over a period.
+Expense Report: A document outlining the costs and expenses incurred by BIRDZ.
+Payroll: The system for managing and distributing wages to Workers.
+Compliance: Ensuring that BIRDZ adheres to health, safety, and legal regulations.
+<br>
+**Workers**
+Worker: An individual employed at BIRDZ, including chefs, waitstaff, and cleaners.
+Shift Schedule: The planned working hours and assignments for Workers.
+Training Program: Educational sessions to improve Workers' skills and knowledge.
+Performance Review: Regular evaluations of a Worker’s job performance.
+Task Assignment: Specific duties and responsibilities allocated to Workers.
+<br>
+**Operations**
+Kitchen: The area where food is prepared.
+Dining Area: The space where Customers eat their meals.
+Point of Sale (POS) System: The system used to handle transactions and manage sales data.
+Reservation System: The platform used to manage table bookings and reservations.
+Inventory Management System: A tool for tracking and ordering supplies.
