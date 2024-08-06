@@ -481,6 +481,129 @@ Based on our identified users, we have defined our target segments to which our 
 - **Characteristics:** Suppliers provide the necessary ingredients and materials for the restaurant. They need a reliable and efficient system for managing orders and inventory levels. Good communication and timely responses are crucial for maintaining a smooth supply chain and ensuring the restaurant’s needs are met without disruption.
 - **Demographics:** Typically businesses rather than individuals, with varying sizes from small local suppliers to larger distributors. They generally have a strong focus on logistics and supply chain management.
 
+# 2.1. Competidores
+
+## Uber Eats (Indirecto)
+
+Uber Eats es una plataforma popular de pedidos y entrega de comida en línea donde los clientes pueden ordenar comida de restaurantes locales a través de la aplicación o sitio web de Uber Eats. Ofrece varias promociones, seguimiento en tiempo real y una interfaz amigable para el usuario, haciéndolo una opción preferida para muchos clientes.
+
+## PedidosYa (Indirecto)
+
+PedidosYa es otro servicio líder de entrega de alimentos en América Latina, similar a Uber Eats. Permite a los usuarios navegar por restaurantes locales, ordenar comida y tenerla entregada en su hogar. También proporciona varias opciones de pago y seguimiento de pedidos en tiempo real.
+
+## RestuSoft (Directo)
+
+RestuSoft es un software de gestión de restaurantes diseñado para optimizar las operaciones diarias como reservas, gestión de pedidos, control de inventario y gestión de relaciones con los clientes (CRM). Es un competidor directo porque ofrece una solución integral similar a BIRDZ Management System.
+
+## FoodTrack (Directo)
+
+FoodTrack es una solución de software enfocada en el seguimiento en tiempo real de las entregas de comida, gestión de inventario y coordinación de proveedores. Proporciona herramientas para que los restaurantes gestionen eficientemente su cadena de suministro y aseguren la entrega oportuna de productos alimenticios.
+
+## 2.1.1. Análisis Competitivo
+
+| Criterio | BIRDZ Management System | Uber Eats (Indirecto) | PedidosYa (Indirecto) | RestuSoft (Directo) | FoodTrack (Directo) |
+|----------|--------------------------|----------------------|-------------------------|------------------|--------------------|
+| Overview | Sistema integral de gestión empresarial para operaciones de restaurantes, incluyendo proveedores, trabajadores, entregas y seguimiento en tiempo real. | Plataforma de pedidos y entrega de comida en línea con seguimiento en tiempo real y interfaz amigable para el usuario. | Plataforma de pedidos y entrega de comida en línea con varias opciones de pago y seguimiento de pedidos en tiempo real. | Software de gestión de restaurantes para optimizar operaciones diarias y CRM. | Solución de software para seguimiento en tiempo real de entregas de comida, gestión de inventario y coordinación de proveedores. |
+| Ventaja Competitiva | Ofrece una solución completa, sencilla, ademas de ser altamente personalizable y escalable gracias a DDD, para administrar todos los aspectos de las operaciones de restaurantes con capacidades de seguimiento en tiempo real. | Llegada masiva y base de usuarios, ofreciendo conveniencia y varias promociones. | Fuerte presencia en América Latina con un enfoque en conveniencia y múltiples opciones de pago. | Enfoque en optimizar operaciones diarias de restaurantes con un conjunto completo de características. | Énfasis en seguimiento en tiempo real y gestión eficiente de la cadena de suministro. |
+| Mercado Objetivo | Administradores, trabajadores, clientes y proveedores de restaurantes Birdz. | Restaurantes y clientes buscando servicios de entrega de comida. | Restaurantes y clientes buscando servicios de entrega de comida. | Restaurantes de mediano a gran tamaño buscando soluciones de gestión integrales. | Restaurantes necesitando herramientas eficientes para la gestión de la cadena de suministro y la entrega. |
+| Estrategias de Marketing | Enfoque directo y personalizado con los propietarios de BIRDZ, asi como capacitaciones detalladas para asegurar un uso óptimo del sistema. | Publicidad en múltiples plataformas digitales y uso de asociaciones con influencers. | Campañas de marketing digital y asociaciones con negocios locales. | Ventas directas, demostraciones en línea y colaboraciones con asociaciones de restaurantes. | Marketing de contenidos enfocado en la eficiencia de la cadena de suministro y los beneficios del seguimiento en tiempo real. |
+| Productos & Servicios | Módulos para proveedores, trabajadores, entregas y seguimiento en tiempo real. | Ordenamiento y entrega de comida, ofertas promocionales y aplicación amigable para el usuario. | Ordenamiento y entrega de comida con múltiples opciones de pago y seguimiento en tiempo real. | Características para reservas, gestión de pedidos, control de inventario y CRM. | Herramientas para seguimiento de entregas, gestión de inventario y coordinación de proveedores. |
+| Precios & Costos | Pago vitalicio por la totalidad del sistema, junto con una mensualidad por el mantenimiento del mismo. | Tarifas de servicio en los pedidos realizados a través de la plataforma. | Tarifas de servicio en los pedidos realizados a través de la plataforma. | Precios de suscripción con varios niveles dependiendo del conjunto de características. | Modelo de suscripción adaptado para diferentes tamaños de restaurantes y necesidades. |
+| Canales de Distribución (Web o móvil) | Aplicaciones web y móviles. | Aplicación móvil y sitio web. | Aplicación móvil y sitio web. | Plataforma basada en web con soporte de aplicación móvil. | Plataforma basada en web con soporte de aplicación móvil. |
+| Fortalezas | Solución integral, modular, escalable con seguimiento en tiempo real, enfocada totalmente a las necesidades de la empresa BIRDZ. | Base de usuarios amplia, conveniencia y fuerte reconocimiento de marca. | Fuerte presencia en América Latina y múltiples opciones de pago. | Conjunto completo de características para gestionar operaciones de restaurantes. | Énfasis en seguimiento en tiempo real y eficiencia de la cadena de suministro. |
+| Debilidades | Requiere configuración inicial y formación para su uso óptimo. | Menos enfoque en la gestión de operaciones de restaurantes. | Menos enfoque en la gestión de operaciones de restaurantes. | Mayor costo para restaurantes más pequeños. | Enfoque limitado en la gestión general de operaciones de restaurantes. |
+| Oportunidades | Demanda creciente de soluciones eficientes de gestión de restaurantes del tipo de BIRDZ | Expansión del alcance del mercado e introducción de nuevas características. | Expansión del alcance del mercado e introducción de nuevas características. | Expansión a mercados internacionales y añadiendo nuevas características. | Expansión del alcance del mercado y añadiendo más funcionalidades. |
+| Amenazas | Competencia de otras soluciones completas de gestión de restaurantes. | Cambios en las preferencias de los consumidores y competencia de mercado. | Cambios en las preferencias de los consumidores y competencia de mercado. | Competencia de otros softwares de gestión de restaurantes establecidos. | Competencia de otras soluciones de gestión de la cadena de suministro. |
+
+# 2.1.2. Estrategias y Tácticas Frente a Competidores
+
+Después de realizar los análisis correspondientes, las principales estrategias contra competidores son:
+
+## A) Diferenciación de Servicios
+
+**Estrategia:** Identificar y desarrollar características únicas que hagan que BIRDZ Management System se destaque de otras soluciones en el mercado.
+
+**Tácticas:**
+- Realizar constantes reuniones con el personal de BIRDZ para garantizar una solución que cubra totalmente sus necesidades.
+- Desarrollar nuevas funciones o servicios innovadores que aborden estas necesidades de manera efectiva y persolanizada.
+- Promover activamente estas características diferenciadoras a través de capacitaciones y presentaciones detalladas.
+
+## B) Calidad Consistente
+
+**Estrategia:** Garantizar altos estándares de calidad en todos los aspectos de la aplicación y su servicio.
+
+**Tácticas:**
+- Implementar rigurosos controles de calidad durante el desarrollo y la implementación de la aplicación.
+- Ofrecer capacitación y soporte a los clientes para garantizar un uso óptimo de BIRDZ Management System.
+- Recopilar y analizar regularmente retroalimentación de los clientes para identificar áreas de mejora en la calidad y tomar medidas correctivas en las etapas de prueba.
+
+## C) Precios Competitivos
+
+**Estrategia:** Ofrecer una propuesta de valor atractiva que justifique el precio de BIRDZ Management System en comparación con otras soluciones en el mercado.
+
+**Tácticas:**
+- Realizar análisis de precios comparativos para asegurarse de que los precios de BIRDZ Management System sean competitivos pero también rentables.
+- Ofrecer opciones de precios flexibles y personalizadas para adaptarse a las necesidades y presupuestos de diferentes tipos de restaurantes.
+- Destacar el retorno de la inversión (ROI) y los beneficios adicionales que ofrece BIRDZ Management System para justificar su precio.
+
+## D) Atención al Cliente de Calidad
+
+**Estrategia:** Priorizar la satisfacción del cliente y establecer relaciones sólidas con los usuarios de BIRDZ Management System.
+
+**Tácticas:**
+- Ofrecer un manual de uso detallado, para que en caso de algún error en la manipulación del sistema se lleguea dar, sea fácil de slucionar.
+- Implementar un canal de comunicación directo para consultas con nuestro equipo por parte de los clientes.
+- Fomentar una cultura interna centrada en el cliente y capacitar al equipo para entender y satisfacer las necesidades de los usuarios.
+
+## E) Innovación Continua
+
+**Estrategia:** Mantenerse a la vanguardia de la innovación en tecnología y gestión de restaurantes para ofrecer constantemente nuevas soluciones y mejoras.
+
+**Tácticas:**
+- Centrarse en las etapas tempranas de diseño en buscar los patrones y prácticas más modernas para ofrecer un producto de calidad y que se mantenga a la vanguardia por mucho tiempo.
+- Realizar una exhaustiva comunicación con el stakeholder para asegurarse de estar creando una solución a la medida de sus necesidades.
+- Colaborar con expertos de la industria para desarrollar soluciones avanzadas y adaptadas a las necesidades cambiantes de los restaurantes.
+
+# 2.3. Needfinding
+
+Para tener una mejor idea de cómo será la experiencia del usuario con nuestro producto, utilizaremos las siguientes herramientas:
+
+## User Persona
+
+Describiremos detalladamente los perfiles de nuestros usuarios objetivo, incluyendo sus objetivos, frustraciones, biografía y preferencias de comunicación.
+
+## User Task Matrix
+
+Identificaremos y categorizaremos las tareas clave que cada tipo de usuario necesita realizar con el sistema, destacando las tareas más críticas para cada perfil.
+
+## User Journey Mapping
+
+Visualizaremos el recorrido del usuario desde el primer contacto con el sistema hasta la finalización de sus objetivos, identificando puntos de dolor y oportunidades de mejora en cada etapa.
+
+## Empathy Mapping
+
+Profundizaremos en la comprensión de los pensamientos, sentimientos, acciones y necesidades de los usuarios, asegurándonos de que el sistema responda a sus expectativas y emociones.
+
+## As-is Scenario Mapping
+
+Documentaremos el escenario actual de los procesos de gestión en el restaurante Birdz, identificando áreas donde el sistema BIRDZ Management System puede ofrecer mejoras significativas y soluciones innovadoras.
+
+# 2.3.1. User Personas
+
+These User Persona profiles are based on the analysis of interviews and competitive research, allowing us to create detailed and realistic representations of our target users. By developing User Personas, we aim to understand the primary characteristics, needs, and behaviors of our end-users, including their objectives, personality traits, preferred technologies, and communication channels. These representations help us to humanize and visualize our users, which in turn guides the design of products and services that meet their demands and expectations within the context of our project.
+
+**Admins Segment:**  
+![Imagen User Persona 1](https://imgur.com/7zDEJq6.jpg)
+
+**Workers Segment:**  
+![Imagen User Persona 1](https://imgur.com/8kHryo9.jpeg)
+
+**Suppliers Segment:**  
+![Imagen User Persona 1](https://imgur.com/oy54yvF.jpeg)
+
+**Clients Segment:**  
+![Imagen User Persona 1](https://imgur.com/RlGriat.jpeg)
+
 
 ## 2.3.2. User Task Matrix
 
