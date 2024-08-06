@@ -875,19 +875,58 @@ Here is the table in Markdown format:
 
 ## Supplier -M
 
-| HUX / EPX | User Storie / Epic | Description | Acceptance Cryteria | Epic Id | 
-|----------|--------------------------|----------------------|-------------------------|------------------|
-| EP03 | Sistema integral de gestión empresarial para operaciones de restaurantes, incluyendo proveedores, trabajadores, entregas y seguimiento en tiempo real. | Plataforma de pedidos y entrega de comida en línea con seguimiento en tiempo real y interfaz amigable para el usuario. | Plataforma de pedidos y entrega de comida en línea con varias opciones de pago y seguimiento de pedidos en tiempo real. ||
-| HU01 | Ofrece una solución completa, sencilla, ademas de ser altamente personalizable y escalable gracias a DDD, para administrar todos los aspectos de las operaciones de restaurantes con capacidades de seguimiento en tiempo real. | Llegada masiva y base de usuarios, ofreciendo conveniencia y varias promociones. | Fuerte presencia en América Latina con un enfoque en conveniencia y múltiples opciones de pago. | EP02 |
+Here are 20 user stories for the **Birdz Management System** focused on the supplier segment:
 
+| User Story ID | User Story | Description | Acceptance Criteria | Epic Id |
+|---------------|------------|-------------|---------------------|--------|
+| HU01 | As a supplier, I want to receive order notifications in real-time so that I can promptly fulfill orders. | Real-time order notifications via email or SMS. | Instant alerts for new orders received. | EP01 |
+| HU02 | As a supplier, I want to view the restaurant's inventory levels so that I can anticipate future orders. | Access to inventory levels with permission. | Real-time visibility into inventory for better planning. | EP01 |
+| HU03 | As a supplier, I want to update my product catalog so that the restaurant can see my latest offerings. | Product catalog management interface. | Ability to add, update, or remove products easily. | EP01 |
+| HU04 | As a supplier, I want to track my deliveries so that I can ensure timely and accurate deliveries. | Delivery tracking system integrated into the platform. | Real-time updates on delivery status and estimated arrival times. | EP01 |
+| HU05 | As a supplier, I want to receive feedback from the restaurant so that I can improve my service. | Feedback and review system. | Ability to view and respond to feedback from the restaurant. | EP01 |
+| HU06 | As a supplier, I want to view past order history so that I can understand the restaurant's ordering patterns. | Access to detailed order history. | Comprehensive order records and analytics. | EP01 |
+| HU07 | As a supplier, I want to set order minimums and maximums so that I can manage my inventory efficiently. | Order limit settings in the system. | Notifications for orders exceeding the set limits. | EP01 |
+| HU08 | As a supplier, I want to communicate directly with the restaurant administrators so that I can address any issues quickly. | Built-in messaging system for direct communication. | Secure and instant messaging capabilities. | EP01 |
+| HU09 | As a supplier, I want to manage multiple delivery locations so that I can efficiently serve different branches. | Multi-location delivery management. | Ability to track and manage deliveries to various locations. | EP01 |
+| HU10 | As a supplier, I want to receive payment confirmations so that I can reconcile my accounts. | Payment status updates and confirmations. | Clear notifications for completed payments. | EP01 |
+| HU11 | As a supplier, I want to generate invoices directly from the system so that I can streamline my billing process. | Automated invoice generation. | Easy-to-create and customizable invoices. | EP01 |
+| HU12 | As a supplier, I want to integrate with my existing supply chain management software so that I can avoid data duplication. | Integration capabilities with popular SCM systems. | Seamless data synchronization between systems. | EP01 |
+| HU13 | As a supplier, I want to receive order forecasts based on the restaurant's trends so that I can prepare in advance. | Order forecasting tool. | Predictive analytics to help anticipate future orders. | EP01 |
+| HU14 | As a supplier, I want to access performance reports so that I can evaluate my service quality. | Supplier performance analytics. | Detailed reports on delivery times, order accuracy, and feedback. | EP01 |
+| HU15 | As a supplier, I want to manage my account details so that I can keep my information up-to-date. | Account management interface. | Easy access to update contact details and business information. | EP01 |
+| HU16 | As a supplier, I want to set delivery schedules so that I can optimize my logistics operations. | Delivery scheduling feature. | Ability to set and manage delivery dates and times. | EP01 |
+| HU17 | As a supplier, I want to receive notifications for urgent orders so that I can prioritize them accordingly. | Urgent order alerts. | Clear notifications for high-priority orders. | EP01 |
+| HU18 | As a supplier, I want to view seasonal demand patterns so that I can adjust my inventory accordingly. | Seasonal demand analysis tool. | Insights into order patterns during different times of the year. | EP01 |
+| HU19 | As a supplier, I want to collaborate with other suppliers through the platform so that we can improve overall efficiency. | Supplier collaboration feature. | Secure and organized space for supplier communication and collaboration. | EP01 |
+| HU20 | As a supplier, I want to access training resources so that I can effectively use the system. | Training and support resources. | Comprehensive guides, tutorials, and customer support. | EP01 |
 
 
 ## Developers -M
 
-| HUX / EPX | User Storie / Epic | Description | Acceptance Cryteria | Epic Id | 
-|----------|--------------------------|----------------------|-------------------------|------------------|
-| EP04 | Sistema integral de gestión empresarial para operaciones de restaurantes, incluyendo proveedores, trabajadores, entregas y seguimiento en tiempo real. | Plataforma de pedidos y entrega de comida en línea con seguimiento en tiempo real y interfaz amigable para el usuario. | Plataforma de pedidos y entrega de comida en línea con varias opciones de pago y seguimiento de pedidos en tiempo real. ||
-| HU01 | Ofrece una solución completa, sencilla, ademas de ser altamente personalizable y escalable gracias a DDD, para administrar todos los aspectos de las operaciones de restaurantes con capacidades de seguimiento en tiempo real. | Llegada masiva y base de usuarios, ofreciendo conveniencia y varias promociones. | Fuerte presencia en América Latina con un enfoque en conveniencia y múltiples opciones de pago. | EP02 |
+Here are 20 technical user stories for the **Birdz Management System** focused on the developer segment, considering the use of CQRS architecture, Domain Driven Design, bounded context, and the SCRUM approach:
+
+| User Story ID | User Story | Description | Acceptance Criteria | Epic Id |
+|---------------|------------|-------------|---------------------|--------|
+| HU01 | As a developer, I want to design the system using CQRS so that commands and queries are handled separately. | Implement CQRS pattern. | Commands and queries are processed independently. | EP01 |
+| HU02 | As a developer, I want to define bounded contexts so that each subdomain has clear boundaries and responsibilities. | Identify and implement bounded contexts. | Clear separation of responsibilities between contexts. | EP01 |
+| HU03 | As a developer, I want to use Domain Driven Design (DDD) so that the system accurately models the business domain. | Apply DDD principles. | Domain model accurately reflects business rules and processes. | EP01 |
+| HU04 | As a developer, I want to implement a RESTful API for each bounded context so that the system is modular and maintainable. | Develop and document RESTful APIs for each context. | Each bounded context has its own API. | EP01 |
+| HU05 | As a developer, I want to create domain events so that changes in one part of the system can trigger actions in another part. | Implement domain event handling. | Events propagate changes across bounded contexts. | EP01 |
+| HU06 | As a developer, I want to ensure that the system supports eventual consistency so that data integrity is maintained across bounded contexts. | Implement eventual consistency mechanisms. | Data is eventually consistent across all contexts. | EP01 |
+| HU07 | As a developer, I want to use event sourcing so that the state of the system can be reconstructed from a sequence of events. | Implement event sourcing. | System state can be rebuilt from event logs. | EP01 |
+| HU08 | As a developer, I want to implement read models for queries so that they are optimized for performance and scalability. | Develop read models. | Queries are efficient and performant. | EP01 |
+| HU09 | As a developer, I want to create aggregate roots so that complex business logic is encapsulated within aggregates. | Define and implement aggregate roots. | Business logic is properly encapsulated within aggregates. | EP01 |
+| HU10 | As a developer, I want to follow SCRUM methodology so that development is organized into sprints with clear deliverables. | Use SCRUM approach for project management. | Regular sprints with defined goals and reviews. | EP01 |
+| HU11 | As a developer, I want to implement a command bus so that commands are dispatched and handled in a decoupled manner. | Develop command bus system. | Commands are dispatched and processed independently. | EP01 |
+| HU12 | As a developer, I want to implement a query bus so that queries are routed to the appropriate handlers. | Develop query bus system. | Queries are routed and processed efficiently. | EP01 |
+| HU13 | As a developer, I want to use value objects to represent immutable concepts so that the domain model remains consistent. | Implement value objects. | Domain model uses immutable value objects where appropriate. | EP01 |
+| HU14 | As a developer, I want to use repositories for data access so that the domain layer is decoupled from the infrastructure layer. | Implement repository pattern. | Domain layer interacts with data through repositories. | EP01 |
+| HU15 | As a developer, I want to implement unit tests for domain logic so that the system's behavior is verified. | Develop unit tests for domain logic. | High test coverage and passing tests for domain logic. | EP01 |
+| HU16 | As a developer, I want to implement integration tests so that the interactions between bounded contexts are validated. | Develop integration tests. | Successful validation of interactions across contexts. | EP01 |
+| HU17 | As a developer, I want to use a task board in SCRUM so that team progress is visible and trackable. | Implement task board using tools like Jira or Trello. | Task board reflects current sprint status and progress. | EP01 |
+| HU18 | As a developer, I want to conduct code reviews so that code quality is maintained. | Establish a code review process. | Regular code reviews and feedback incorporated. | EP01 |
+| HU19 | As a developer, I want to implement JWT authentication so that user sessions are securely managed. | Implement JWT authentication. | Secure login, token generation, and session management. | EP01 |
+| HU20 | As a developer, I want to implement security measures for data access so that sensitive information is protected. | Implement role-based access control and data encryption. | Secure access controls and encrypted sensitive data. | EP01 |
 
 
 ## 3.3. Impact Mapping.
