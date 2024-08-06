@@ -942,7 +942,7 @@ Here are 20 technical user stories for the **Birdz Management System** focused o
 | HU19 | As a developer, I want to implement JWT authentication so that user sessions are securely managed. | Implement JWT authentication. | Secure login, token generation, and session management. | EP01 |
 | HU20 | As a developer, I want to implement security measures for data access so that sensitive information is protected. | Implement role-based access control and data encryption. | Secure access controls and encrypted sensitive data. | EP01 |
 
-** Worker **
+**Worker**
 
 | Epic ID | User Story Description                                                                                                                                                                       | Acceptance Criteria                                                                                                                                                                                                                                                                                                                                                                                                                                  | User ID |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
@@ -970,7 +970,7 @@ Here are 20 technical user stories for the **Birdz Management System** focused o
 
 
 
-** Customer **
+**Customer**
 
 | HUX/EPX | User Story / Epic                                                | Description                                                                                                                                                                | Acceptance Criteria                                                                                                                                                                                                                                                                                                                        | Related to (Epic ID) |
 |---------|------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
@@ -996,7 +996,7 @@ Here are 20 technical user stories for the **Birdz Management System** focused o
 | HU19    | Read Reviews from Other Diners                                  | As a customer, I want to read reviews from other diners so I can make informed decisions about what to order.                                                              | Given that I am browsing the menu <br> When I select a dish <br> Then I should see reviews and ratings from other customers who have ordered that dish.                                                                                                                              | EP01                  |
 
 
-** Visitor **
+**Visitor**
 
 | HUX/EPX | User Story / Epic                                                | Description                                                                                                                                                                | Acceptance Criteria                                                                                                                                                                                                                                                                                                                        | Related to (Epic ID) |
 |---------|------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
