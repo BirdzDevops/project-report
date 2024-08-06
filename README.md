@@ -858,3 +858,38 @@ En esta sección se explican y se presentan los Impact Mappings. Creados a parti
 ## 3.4. Product Backlog.
 
 A continuación, se mostrara el Product Backlog creado a partir de las Historias de Usuario que conseguimos, ordenadas de menor a mayor Story Points.
+
+## Administrador -M
+
+| HUX / EPX | User Storie / Epic | Description | Acceptance Cryteria | Epic Id | 
+|----------|--------------------------|----------------------|-------------------------|------------------|
+| EP01 | Sistema integral de gestión empresarial para operaciones de restaurantes, incluyendo proveedores, trabajadores, entregas y seguimiento en tiempo real. | Plataforma de pedidos y entrega de comida en línea con seguimiento en tiempo real y interfaz amigable para el usuario. | Plataforma de pedidos y entrega de comida en línea con varias opciones de pago y seguimiento de pedidos en tiempo real. ||
+| HU01 | Ofrece una solución completa, sencilla, ademas de ser altamente personalizable y escalable gracias a DDD, para administrar todos los aspectos de las operaciones de restaurantes con capacidades de seguimiento en tiempo real. | Llegada masiva y base de usuarios, ofreciendo conveniencia y varias promociones. | Fuerte presencia en América Latina con un enfoque en conveniencia y múltiples opciones de pago. | EP01 |
+
+## Trabajador -V
+
+| HUX / EPX | User Storie / Epic | Description | Acceptance Cryteria | Epic Id | 
+|----------|--------------------------|----------------------|-------------------------|------------------|
+| EP02 | Sistema integral de gestión empresarial para operaciones de restaurantes, incluyendo proveedores, trabajadores, entregas y seguimiento en tiempo real. | Plataforma de pedidos y entrega de comida en línea con seguimiento en tiempo real y interfaz amigable para el usuario. | Plataforma de pedidos y entrega de comida en línea con varias opciones de pago y seguimiento de pedidos en tiempo real. ||
+| HU01 | Ofrece una solución completa, sencilla, ademas de ser altamente personalizable y escalable gracias a DDD, para administrar todos los aspectos de las operaciones de restaurantes con capacidades de seguimiento en tiempo real. | Llegada masiva y base de usuarios, ofreciendo conveniencia y varias promociones. | Fuerte presencia en América Latina con un enfoque en conveniencia y múltiples opciones de pago. | EP02 |
+
+## Supplier -M
+
+| HUX / EPX | User Storie / Epic | Description | Acceptance Cryteria | Epic Id | 
+|----------|--------------------------|----------------------|-------------------------|------------------|
+| EP03 | Sistema integral de gestión empresarial para operaciones de restaurantes, incluyendo proveedores, trabajadores, entregas y seguimiento en tiempo real. | Plataforma de pedidos y entrega de comida en línea con seguimiento en tiempo real y interfaz amigable para el usuario. | Plataforma de pedidos y entrega de comida en línea con varias opciones de pago y seguimiento de pedidos en tiempo real. ||
+| HU01 | Ofrece una solución completa, sencilla, ademas de ser altamente personalizable y escalable gracias a DDD, para administrar todos los aspectos de las operaciones de restaurantes con capacidades de seguimiento en tiempo real. | Llegada masiva y base de usuarios, ofreciendo conveniencia y varias promociones. | Fuerte presencia en América Latina con un enfoque en conveniencia y múltiples opciones de pago. | EP02 |
+
+## Customer -V
+
+| HUX / EPX | User Storie / Epic | Description | Acceptance Cryteria | Epic Id | 
+|----------|--------------------------|----------------------|-------------------------|------------------|
+| EP04 | Sistema integral de gestión empresarial para operaciones de restaurantes, incluyendo proveedores, trabajadores, entregas y seguimiento en tiempo real. | Plataforma de pedidos y entrega de comida en línea con seguimiento en tiempo real y interfaz amigable para el usuario. | Plataforma de pedidos y entrega de comida en línea con varias opciones de pago y seguimiento de pedidos en tiempo real. ||
+| HU01 | Ofrece una solución completa, sencilla, ademas de ser altamente personalizable y escalable gracias a DDD, para administrar todos los aspectos de las operaciones de restaurantes con capacidades de seguimiento en tiempo real. | Llegada masiva y base de usuarios, ofreciendo conveniencia y varias promociones. | Fuerte presencia en América Latina con un enfoque en conveniencia y múltiples opciones de pago. | EP02 |
+
+## Developers -M
+
+| HUX / EPX | User Storie / Epic | Description | Acceptance Cryteria | Epic Id | 
+|----------|--------------------------|----------------------|-------------------------|------------------|
+| EP04 | Sistema integral de gestión empresarial para operaciones de restaurantes, incluyendo proveedores, trabajadores, entregas y seguimiento en tiempo real. | Plataforma de pedidos y entrega de comida en línea con seguimiento en tiempo real y interfaz amigable para el usuario. | Plataforma de pedidos y entrega de comida en línea con varias opciones de pago y seguimiento de pedidos en tiempo real. ||
+| HU01 | Ofrece una solución completa, sencilla, ademas de ser altamente personalizable y escalable gracias a DDD, para administrar todos los aspectos de las operaciones de restaurantes con capacidades de seguimiento en tiempo real. | Llegada masiva y base de usuarios, ofreciendo conveniencia y varias promociones. | Fuerte presencia en América Latina con un enfoque en conveniencia y múltiples opciones de pago. | EP02 |
