@@ -825,27 +825,39 @@ Inventory Management System: A tool for tracking and ordering supplies.
 
 # Capítulo III: Requirements Specification
 
-En este capítulo, nos centraremos en definir los requerimientos que debemos cumplir para el exito de nuestra solución.
+In this chapter, we are going to discuss and establish our requirements to reach the sucessfull in our business.
 
 ## 3.1. To-Be Scenario Mapping.
 
-En este apartado se presentan los To-Be Scenario Mapping para los segmentos de gerentes y trabajadores, que describen cómo serán las interacciones y tareas de los usuarios con el sistema de gestión hotelera una vez implementado. Estos mapas proporcionan una visión general de las funcionalidades y características que se espera que tenga el producto final, y sirven como guía para el diseño y desarrollo del sistema.
+In this section, we present the To-Be Scenario Mapping for the segments of administrators and suppliers, which outlines how interactions and tasks with the Birdz Management System will be once implemented. These maps provide an overview of the functionalities and features expected in the final product and serve as a guide for the design and development of the system.
 
-Segmento 1:
+**Target Segment Administrator**
 
-IMAGEN
+IMAGE
 
-El To-Be Scenario Mapping para el segmento Gerentes.
+To-Be Scenario Mapping for the Target Segment "Administrator".
 
-Segmento 2:
+**Target Segment Worker**
 
-IMAGEN
+IMAGE
 
-El To-Be Scenario Mapping para el segmento Trabajadores.
+To-Be Scenario Mapping for the Target Segment "Worker".
+
+**Target Segment Customer**
+
+IMAGE
+
+To-Be Scenario Mapping for the Target Segment "Customer".
+
+**Target Segment Supplier**
+
+IMAGE
+
+To-Be Scenario Mapping for the Target Segment "Supplier".
 
 ## 3.2. User Stories.
 
-Redactamos las historias de usuario para el sistema de gestión hotelera basándonos en las necesidades y desafíos identificados en las entrevistas y el análisis de los segmentos de gerentes y trabajadores. Las historias de usuario describen las funcionalidades y características que los usuarios finales esperan del sistema, y se utilizan para guiar el diseño y desarrollo del producto.                                                                                                                 
+We drafted the user stories for the hotel management system based on the needs and challenges identified in the interviews and the analysis of the manager and worker segments. The user stories describe the functionalities and features that the end-users expect from the system and are used to guide the design and development of the product.                                                                                                               
 ## Administrador -M
 
 Here is the table in Markdown format:
