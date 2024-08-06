@@ -1241,24 +1241,6 @@ En esta sección, se mostrará todo lo relacionado con la representación de los
 ![Landing page mockup](https://i.imgur.com/eoEQMks.png)
 
 ![Landing page mockup](https://i.imgur.com/KCEdm15.png)
-<br>
-![Landing page mockup](https://i.imgur.com/8DeEUYZ.png)
-<br>
-![Landing page mockup](https://i.imgur.com/gWbrY5V.png)
-<br>
-![Landing page mockup](https://i.imgur.com/r84zhRb.png)
-<br>
-![Landing page mockup](https://i.imgur.com/DvUFgyq.png)
-<br>
-![Landing page mockup](https://i.imgur.com/UCSQqc6.png)
-<br>
-![Landing page mockup](https://i.imgur.com/4NHbGoY.png)
-<br>
-![Landing page mockup](https://i.imgur.com/zfadl05.png)
-<br>
-
-[Link en LucidChart] https://lucid.app/lucidchart/508e0d8a-92a2-4de3-8626-6b782938b13e/edit?beaconFlowId=47FEEC1E8EBED814&page=0_0&invitationId=inv_fc67e0b3-63d7-49e2-bbf1-50acd5491bd9
-
 
 ### 4.7.2. Class Dictionary.
 
