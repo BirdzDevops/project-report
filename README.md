@@ -481,3 +481,220 @@ Based on our identified users, we have defined our target segments to which our 
 - **Characteristics:** Suppliers provide the necessary ingredients and materials for the restaurant. They need a reliable and efficient system for managing orders and inventory levels. Good communication and timely responses are crucial for maintaining a smooth supply chain and ensuring the restaurant’s needs are met without disruption.
 - **Demographics:** Typically businesses rather than individuals, with varying sizes from small local suppliers to larger distributors. They generally have a strong focus on logistics and supply chain management.
 
+
+## 2.3.2. User Task Matrix
+
+This section presents User Task Matrix, it's a tool that allow identify important and frequently tasks that do the "User Personas" in their laboral 
+environment. By this matrix, we can compare and constrast the more frequently tasks of provider, administrators and customers. By comparing facts 
+like frequence and importance, we understand better the necessities and challenges of our "User Personas".
+
+| Task                                           | Manager (Frequency / Importance) | Employee (Frequency / Importance) | Customers (Frequency / Importance) | Providers (Frequency / Importance) |
+|------------------------------------------------|-----------------------------|---------------------------|--------------------------|----------------------------|
+| Staff supervision                              | High / High                 | Medium / High             | N/A                      | N/A                        |
+| Restaurant cleaning scheduling                 | Medium / Medium             | High / High               | N/A                      | N/A                        |
+| Staff shift scheduling                         | High / High                 | Low / Medium              | N/A                      | N/A                        |
+| Negotiation with suppliers                     | High / High                 | Low / Low                 | N/A                      | High / High                |
+| Staff training                                 | High / High                 | Medium / High             | N/A                      | N/A                        |
+| Staff performance evaluation                   | Medium / High               | Medium / High             | N/A                      | N/A                        |
+| Compliance with regulatory principles          | High / High                 | High / High               | N/A                      | N/A                        |
+| Equipment maintenance scheduling               | Medium / Medium             | High / High               | N/A                      | N/A                        |
+| Inventory management                           | High / High                 | Medium / High             | N/A                      | High / High                |
+| Resource management                            | High / High                 | Low / Low                 | N/A                      | N/A                        |
+| Food quality verification                      | Medium / High               | High / Medium             | High / High              | High / High                |
+| Staff permissions management                   | High / High                 | Low / High                | N/A                      | N/A                        |
+| Work shift scheduling                          | High / High                 | Low / Medium              | N/A                      | N/A                        |
+| Event or activity planning                     | Medium / High               | Low / Low                 | High / High              | N/A                        |
+| Financial and accounting report preparation    | High / High                 | Medium / High             | N/A                      | N/A                        |
+| Reservation control                            | Medium / Medium             | High / High               | High / High              | N/A                        |
+| Customer order management                      | Medium / Medium             | High / High               | High / High              | N/A                        |
+| Responding to customer inquiries and requests  | Low / Low                   | Medium / High             | High / High              | N/A                        |
+| Establishing regulatory principles             | High / High                 | Low / Medium              | N/A                      | N/A                        |
+| Public relations and marketing                 | High / High                 | Medium / High             | High / High              | N/A                        |
+| Coordination of supplier deliveries            | High / High                 | Medium / High             | N/A                      | High / High                |
+| Receiving deliveries                           | Medium / High               | High / High               | N/A                      | High / High                |
+| Providing feedback on ingredients              | Medium / High               | Medium / High             | N/A                      | High / High                |
+| Payment management for suppliers               | High / High                 | Low / Low                 | N/A                      | High / High                |
+| Participation in loyalty programs              | Medium / Medium             | Medium / Medium           | High / High              | N/A                        |
+| Reviews and recommendations                    | Medium / High               | High / High               | High / High              | N/A                        |
+
+### Tasks with the Highest Frequency and Importance:
+
+**Staff Supervision**: This task is crucial for both the manager and the employee, as it ensures that all assigned functions and roles are carried out in an organized, efficient, and correct manner.
+
+**Food Quality Verification**: This task is of high importance to both the manager and the employee, as it ensures customer satisfaction and meets the expectations customers have of the restaurant. For the employee, it is a highly important task as it facilitates maintaining the quality standards of the restaurant.
+
+**Staff Performance Evaluation**: Both the manager and the employee perform this task with high frequency and importance, as it ensures that the restaurant has workers and administrators who fulfill their roles and functions quickly and organized according to the restaurant’s standards.
+
+**Compliance with Regulatory Principles**: This task is of high importance for the manager. Ensuring regulatory compliance means following established procedures and policies, as well as guaranteeing that all activities are carried out in accordance with the applicable regulations and standards in the restaurant industry.
+
+**Work Shift Scheduling**: Coordinating the needs of the restaurant with the availability of the staff is crucial for efficient and effective restaurant operations. Both the workers and the manager play important roles in this process, each with different levels of responsibility and authority.
+
+**Staff Training**: Training the staff is fundamental for both the workers and the restaurant managers to ensure that the staff is well-prepared and has the necessary skills to provide quality service to customers and contribute to the overall success of the restaurant.
+
+**Customer Order Management**: This task is crucial for both segments, as it allows for controlling customer orders and ensuring they are satisfied with their dining experience, facilitating efficient service and operations.
+
+### Main Differences and Similarities Between the Roles:
+
+**Differences**:
+
+- **Negotiation with Suppliers**: This is a task of high importance for the manager but of low importance for the staff. This reflects the level of responsibility and the strategic nature of the decisions the manager makes compared to the more operational tasks of the employee.
+  
+- **Responding to Customer Inquiries and Requests**: This task is of high importance for the staff, as they interact more with the customers and are more available to address their inquiries and requests. Conversely, it is of low importance for the manager as their role is more related to the logical and administrative aspects of the business.
+
+**Similarities**:
+
+- **Staff Performance Evaluation**: Both the manager and the employee participate in evaluating staff performance, highlighting the shared importance of ensuring a well-trained and motivated team to provide quality service.
+  
+- **Financial and Accounting Report Preparation**: This task is of high importance for both roles, emphasizing the need to make data-driven decisions to improve operational efficiency and customer experience.
+
+
+## 2.3.3. User Journey Mapping
+
+This section will detail all the important interactions with BIRDZ, contact facts and emotive experience by the application. The objective is identify opportunities of improvement and optimize 
+the user experience. The following description process:
+
+Sure, here's the completed User Journey Map for each target segment:
+
+### User Journey Map - Administrator
+
+**Beginning of the Day**:
+
+- Staff Supervision: Ensure all employees are present and ready for their shifts.
+- Review Daily Schedule: Check the schedule for the day, including reservations and events.
+- Compliance Check: Verify that the restaurant is compliant with regulatory standards.
+
+**Middle of the Day**:
+
+- Staff Training: Conduct or oversee any ongoing training sessions.
+- Negotiation with Suppliers: Communicate with suppliers to manage inventory and order ingredients.
+- Performance Evaluation: Monitor and evaluate staff performance throughout the day.
+- Financial Reporting: Review and update financial and accounting reports.
+
+**End of the Day**:
+
+- Staff Performance Review: Provide feedback to staff on their performance.
+- Compliance Check: Ensure all regulatory compliance tasks are completed.
+- Closing Procedures: Oversee the closing of the restaurant, ensuring everything is secure and ready for the next day.
+
+### User Journey Map - Employee
+
+**Beginning of the Day**:
+
+- Preparation: Set up the restaurant for opening, including cleaning and organizing the space.
+- Staff Briefing: Attend the morning briefing to understand the tasks and goals for the day.
+- Customer Interaction: Prepare to welcome the first customers and take their orders.
+
+**Middle of the Day**:
+
+- Order Management: Manage customer orders, ensuring timely and accurate service.
+- Food Quality Verification: Ensure all food served meets quality standards.
+- Respond to Inquiries: Address customer questions and requests promptly.
+
+**End of the Day**:
+
+- Cleaning: Clean the restaurant after service, including dining areas and kitchen.
+- Inventory Check: Assist in checking inventory levels and report any shortages.
+- Closing Procedures: Help with closing the restaurant, including securing all areas and preparing for the next day.
+
+### User Journey Map - Provider
+
+**Beginning of the Day**:
+
+- Delivery Scheduling: Plan and schedule deliveries for the day.
+- Quality Check: Ensure all products are of high quality and ready for delivery.
+
+**Middle of the Day**:
+
+- Delivery Coordination: Deliver ingredients and supplies to the restaurant.
+- Feedback Collection: Collect feedback from the restaurant on the quality and timeliness of deliveries.
+
+**End of the Day**:
+
+- Payment Management: Ensure all invoices are submitted and payments are managed.
+- Schedule Planning: Plan for the next day’s deliveries and coordinate with the restaurant for any special requirements.
+
+### User Journey Map - Customer
+
+**Beginning of the Day**:
+
+- Reservation/Order: Make a reservation or place an order for the day.
+
+**Middle of the Day**:
+
+- Arrival: Arrive at the restaurant and check-in for the reservation.
+- Dining Experience: Enjoy the meal, interact with staff, and provide feedback if necessary.
+
+**End of the Day**:
+
+- Feedback: Provide feedback on the dining experience through reviews or surveys.
+- Participation in Loyalty Programs: Engage in any loyalty programs or promotions offered by the restaurant.
+
+These User Journey Maps outline the key tasks and interactions each segment has throughout a typical day, ensuring smooth operations and a positive experience for everyone involved in the restaurant business.
+
+## 2.3.4. Empathy Mapping 
+
+During this process, we've collected really important behavior patterns, commons topics, and 
+data analysis. After that, we created one profile that represents each target segment. Finally, we 
+used the collected information to design a "Empathy Map" that organize emotions, thoughts and 
+actions of the users.
+
+**Administrator Target Segment**
+
+
+
+**Customer Target Segment**
+
+
+
+**Provider Target Segment**
+
+
+
+**Employee Target Segment**
+
+
+
+## 2.3.5. As-Is Scenario Mapping
+
+
+# 2.4. Ubiquitous Language
+
+**General Terms**
+Restaurant: BIRDZ, the establishment offering food and services.
+Menu: The list of available dishes and beverages offered by BIRDZ.
+Order: A request by a Customer for specific dishes and beverages.
+Reservation: A booking made by a Customer for a table at BIRDZ.
+Inventory: The stock of ingredients and supplies needed for the restaurant.
+<br>
+**Customers**
+Customer: An individual who visits BIRDZ to dine.
+Loyalty Program: A system to reward regular Customers with discounts and special offers.
+Feedback: Comments and ratings provided by Customers about their dining experience.
+Customer Profile: Information about a Customer, including contact details and dining preferences.
+<br>
+**Suppliers**
+Supplier: A business or individual providing ingredients and supplies to BIRDZ.
+Purchase Order: A formal request sent to a Supplier for specific ingredients and supplies.
+Delivery Schedule: The agreed-upon times and dates for Suppliers to deliver goods to BIRDZ.
+Invoice: A bill sent by a Supplier to BIRDZ for delivered goods.
+<br>
+**Administrators**
+Administrator: A person responsible for managing operations at BIRDZ.
+Sales Report: A document detailing the revenue and sales performance over a period.
+Expense Report: A document outlining the costs and expenses incurred by BIRDZ.
+Payroll: The system for managing and distributing wages to Workers.
+Compliance: Ensuring that BIRDZ adheres to health, safety, and legal regulations.
+<br>
+**Workers**
+Worker: An individual employed at BIRDZ, including chefs, waitstaff, and cleaners.
+Shift Schedule: The planned working hours and assignments for Workers.
+Training Program: Educational sessions to improve Workers' skills and knowledge.
+Performance Review: Regular evaluations of a Worker’s job performance.
+Task Assignment: Specific duties and responsibilities allocated to Workers.
+<br>
+**Operations**
+Kitchen: The area where food is prepared.
+Dining Area: The space where Customers eat their meals.
+Point of Sale (POS) System: The system used to handle transactions and manage sales data.
+Reservation System: The platform used to manage table bookings and reservations.
+Inventory Management System: A tool for tracking and ordering supplies.
