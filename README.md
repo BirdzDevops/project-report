@@ -1040,103 +1040,101 @@ Next, the Product Backlog will be presented, created from the User Stories we ga
 
 # Capítulo IV: Product Design
 
-En este capítulo, nos centraremos en los aspectos de diseño de nuestra solución. Dividido en Style Guidelines, la Information Architecture, el UI Design de la Landing Page y Web Applications, un Prototype de Web Application, la arquitectura Domain Driven Design del software, el Object Oriented Design y la Database Design.
+In this chapter, we will focus on the design aspects of our solution. It is divided into Style Guidelines, Information Architecture, the UI Design of the Landing Page and Web Applications, a Prototype of the Web Application, the Domain Driven Design architecture of the software, Object Oriented Design, and Database Design.
 
 ## 4.1. Style Guidelines.
 
-Aquí definimos las reglas o guías generales a seguir con el aspecto del proyecto, para que pueda ser identificado fácilmente y crear la imagen pública que queremos percibir.
+Here, we define the rules or general guidelines to follow regarding the project's appearance, so that it can be easily identified and create the public image we want to convey
 
-|Aspecto|Directrices|
-|----|----|
-|Nombre de la aplicación|Sweet Manager|
-|Identidad Visual|Colores suaves para representar confianza y fiabilidad en nuestra aplicación.|
-|Diseño de la Interfaz|La aplicación será fácil de navegar para usuarios de todas las edades y niveles de experiencia tecnológica. Utiliza una estructura de menú lógica y una navegación clara. Se agrupan las funciones relacionadas para simplificar la experiencia del usuario.|
-|Diseño de Usuario|Se prioriza la navegación clara. -Estructura lógica y concisa del menú|
-|Contenido|- Información precisa y actualizad. -Control de inventario sobre los insumos y recursos utilizados en el hotel.|
-|Funcionalidad|-Seguimiento de ingresos. -Control de insumos y recursos con información actualizada y precisa para evitar errores y pérdidas en la empresa.
-|Comunicación|-Funciones de chat y correo electrónico. -Formulario de contacto para comentarios|
-|Diseño Responsivo|-Compatibilidad con dispositivos móviles|
-|Seguridad y Privacidad| -Protección de datos sensibles. -Cumplimiento de regulaciones de privacidad|
-|Actualizaciones y Mantenimiento|-Actualizaciones regulares de las bases de datos principales.  -Respuestas oportunas a problemas informados|
-|Promoción|-Estrategias de marketing digital (publicidades en redes sociales).  -Colaboraciones con organizaciones hoteleras|
-
-
+| Aspect | Guidelines |
+|--------|------------|
+| Application Name | Sweet Manager |
+| Visual Identity | Soft colors to convey trust and reliability in our application. |
+| Interface Design | The application will be easy to navigate for users of all ages and levels of technological experience. It will use a logical menu structure and clear navigation. Related functions will be grouped to simplify the user experience. |
+| User Design | Emphasizes clear navigation with a logical and concise menu structure. |
+| Content | - Accurate and up-to-date information. - Inventory management for supplies and resources used in the hotel. |
+| Functionality | - Income tracking. - Control of supplies and resources with up-to-date and accurate information to prevent errors and losses. |
+| Communication | - Chat and email functions. - Contact form for feedback. |
+| Responsive Design | - Compatibility with mobile devices. |
+| Security and Privacy | - Protection of sensitive data. - Compliance with privacy regulations. |
+| Updates and Maintenance | - Regular updates of core databases. - Timely responses to reported issues. |
+| Promotion | - Digital marketing strategies (social media advertisements). - Collaborations with hospitality organizations. |
                                                                     
 ### 4.1.1. General Style Guidelines.
 
-Guías generales de estilo a seguir.
+General style guidelines to follow.
 
-|Aspecto|Directrices|
-|----|----|
-|Tipografía| Se optara por fuentes fáciles de leer y que den un aspecto profesional. Se priorizará la legibilidad del texto antes de que sea llamativo.Debería optarse por una fuente Sans Serif|
-|Colores|Los colores deben ser suaves y reconfortantes. |
-|Espaciado y diseño|Mantendremos un diseño limpio y agradable a la vista. Para crear una sensación de confiabilidad, se usarán espacios uniformes. Usaremos márgenes amplios para evitar un aspecto amontonado. El espaciado que se utilizará debe ser entre 1.5 y 2 veces el tamaño de la fuente.
-
+| Aspect | Guidelines |
+|--------|------------|
+| Typography | Opt for easily readable fonts that provide a professional appearance. Prioritize text readability over being eye-catching. A Sans Serif font is preferred. |
+| Colors | Colors should be soft and comforting. |
+| Spacing and Layout | Maintain a clean and visually pleasing design. To create a sense of reliability, use consistent spacing. Utilize wide margins to avoid a cluttered look. The spacing should be between 1.5 and 2 times the font size. |
 
 ### 4.1.2. Web Style Guidelines.
 
-Guías sobre el estilo web de la solución.
+Guide about the App Web Stle Guidelines.
 
-|Aspecto|Directrices|
-|----|----| 
-|Menú de navegación|El menú de navegación, estará desarrollado para ser adaptado a cualquier tamaño de pantalla, aprovechando cada espacio para mostrar información de manera más visible.|
-|Interacción del Ratón|Consideraremos el uso del ratón al desarrollar los elementos interactivos de la web, como menús desplegables, botones, animaciones, para lograr que el usuario tenga una buena experiencia y pueda interactuar de manera agradable con la web.|
-|Uso de imágenes|Se usarán imágenes con buena calidad para los distintos tamaños de pantalla, manteniendo la velocidad de carga. Esto ayudará en la experiencia visual del usuario.|
-|Cumplimiento de WCAG|Cumpliremos las pautas de accesibilidad al contenido web (WCAG), así el contenido será más accesible para todas las personas, se garantizará que todos puedan entender y utilizar la información que se encuentra en nuestra web.|
-|Tipo de letra|El tipo de letra seleccionado fue “Nunito” en estilos. Medium y Normal para mayor legibilidad.|
-
-
+| Aspect | Guidelines |
+|--------|------------|
+| Navigation Menu | The navigation menu will be developed to adapt to any screen size, optimizing space to display information more prominently. |
+| Mouse Interaction | Consider mouse interactions when developing interactive web elements such as dropdown menus, buttons, and animations to ensure a pleasant user experience and smooth interaction. |
+| Use of Images | Use high-quality images suitable for various screen sizes while maintaining fast loading speeds. This will enhance the visual experience for users. |
+| WCAG Compliance | Adhere to Web Content Accessibility Guidelines (WCAG) to ensure that content is accessible to all individuals, making sure everyone can understand and use the information on our website. |
+| Font Type | The selected font is “Nunito” in Medium and Normal styles for better readability. |
 
 ## 4.2. Information Architecture.
-La arquitectura de información que se emplea en Sweet Manager, permitirá a los dueños de hoteles poder organizar los procesos dentro de su empresa. Brinda un seguimiento de ingresos, proveedores, insumos y recursos que hay en un hotel, todo esto con la finalidad de poder facilitar la gestión interna del hotel.
-Estará enfocada a las personas involucradas en el sector hotelero.
-Luego del registro, las empresas pagarán una suscripción para poder acceder al servicio, en el cual podrán tener un control y seguimiento de los recursos e insumos utilizados, así como también con información actualizada de los proveedores.
+The information architecture employed in Birdz Management System will enable restaurant owners to organize processes within their establishment. It provides tracking of income, suppliers, inventory, and resources within the restaurant, all aimed at facilitating internal management of the restaurant.
 
 ### 4.2.1. Organization Systems.
 
-Estos son los sistemas de organización a seguir.
+These are the organizational systems to follow.
 
-Organización visual de contenidos
-Se desarrollará una organización visual del contenido de forma jerárquica en el Landing Page y en las secciones principales de la web para resaltar la información importante, como pueden ser la información y control de los recursos, insumos e información actualizada de los proveedores.
+**Visual Organization of Content**  
+A hierarchical visual organization of content will be developed on the Landing Page and the main sections of the website to highlight important information, such as resource management, inventory, and updated supplier information.
 
-Categorización de contenido
-Lista de proveedores: Se organiza alfabéticamente por nombre de la empresa, así se podrá ubicar a un proveedor de una manera más rápida y eficaz.
-Insumos: Se creará una lista de los insumos y se hará un control de inventario para poder ver las necesidades de la empresa.
-Recursos: Seguimiento de los recursos para poder llevar un mejor control de las finanzas dentro de ellos.
-
+**Content Categorization**  
+- **Supplier List:** Organized alphabetically by company name for quick and efficient location of suppliers.  
+- **Supplies:** A list of supplies will be created with inventory control to monitor the company's needs.  
+- **Resources:** Tracking of resources to better manage finances within the restaurant.
 
 ### 4.2.2. Labeling Systems.
 
-Estos son los sistemas de etiquetado a seguir.
+These are the labeling systems to follow.
 
-Claridad y simplicidad: Se emplea términos no muy complicados, los cuales puedan ser confusos para los usuarios. Sin embargo, habrá algunos términos los cuales serán más técnicos, debido a los insumos que se puedan utilizar en el hotel.
-Brevedad: Se emplea la menor cantidad de palabras para facilitar la navegación de los usuarios.
-Imágenes ilustrativas: Se emplea imágenes las cuales ayudan a la ubicación de opciones.
-Uso de iconos y símbolos: Se emplea iconos para ayudar a que los usuarios puedan reconocer una función. Esto se emplea principalmente en la barra de herramientas.
+**Clarity and Simplicity:** Use straightforward terms that are easy for users to understand, avoiding complex language that could be confusing. Some technical terms related to restaurant supplies may be used where necessary.
+
+**Brevity:** Use the minimum number of words to simplify user navigation.
+
+**Illustrative Images:** Use images that assist users in locating options and understanding features.
+
+**Use of Icons and Symbols:** Utilize icons to help users recognize functions easily. This is primarily applied in the toolbar.
 
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-Aquí, se presentan las reglas de los Tags a utilizar en la codificación de la página web.
+Here are the rules for the tags to use in the coding of the website.
 
-* Titulo: ```<title> El Control Que Necesitas | Software de Gestión de hoteles/hostales </title> ```
-* Descripcion: ```<meta name = "description" content = "Controla tus cuartos, empleados e inventario en un solo lugar, La solucion que buscas para cualquier tamaño"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "Gestion Hotel, Hotel Manager Software, software hotelero, software hoteleros mas utilizados, Controlar tu Hotel/Hostal, Gestion Hostal"/> ```
+* **Title:** ```<title> The Control You Need | Restaurant Management Software </title>```
+* **Description:** ```<meta name="description" content="Manage your restaurant's inventory, staff, and operations all in one place. The solution you need for any restaurant size." />```
+* **Keywords:** ```<meta name="keywords" content="Restaurant Management, Restaurant Manager Software, restaurant software, most used restaurant software, control your restaurant, restaurant management" />```
 
 ### 4.2.4. Searching Systems.
 
-Aquí se explica los sistemas de búsqueda que se implementaran en nuestro proyecto.
+Here we explain the search systems that will be implemented in our project.
 
-En la página principal se incluirá una opción de búsqueda general, en donde permitirá al usuario acceder a todo el contenido de la aplicación.
-Como búsqueda avanzada se implementará en la parte proveedores e insumos, debido a que se permitirá hacer una búsqueda más específica por apartado.
+On the main page, a general search option will be included, allowing users to access all the content of the application.
+
+An advanced search feature will be implemented in the suppliers and inventory sections, enabling more specific searches by category.
 
 ### 4.2.5. Navigation Systems.
 
-Este sería el sistema de navegación que usara el usuario durante su uso del proyecto.
+This is the navigation system that the user will use during their interaction with the project.
 
-El usuario será bienvenido con una patnalla para registrar su empresa.
-Luego que el usuario inicie sesión se mostrará en la parte inferior de la aplicación una barra de herramientas para que el usuario pueda navegar por toda la aplicación de manera satisfactoria.
-Te puedes desplazar y navegar por el panel de control donde podrás ver perfil, ver empresa, ver el control del inventario, ir por la pagina de gestión de proovedores y ver la pagina de gestión de clientes, cada pagina con distintas opciones dependiendo de cada una.
+The user will be welcomed with a screen to register their restaurant.
+
+After the user logs in, a toolbar will appear at the bottom of the application, allowing them to navigate the entire application effectively.
+
+You can move around and navigate the dashboard where you can view your profile, see restaurant details, access inventory control, visit the supplier management page, and view the customer management page. Each page will have different options depending on its purpose.
 
 
 ## 4.3. Landing Page UI Design.
